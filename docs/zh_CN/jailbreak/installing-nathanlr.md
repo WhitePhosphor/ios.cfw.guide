@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing nathanlr
 description: Guide to installing nathanlr
-permalink: /installing-nathanlr
+permalink: /zh_CN/installing-nathanlr
 pkgman: sileo
 extra_contributors:
  - Alriceee

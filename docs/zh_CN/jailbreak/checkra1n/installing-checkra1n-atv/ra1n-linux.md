@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing checkra1n for Apple TV (Linux)
 description: Guide to installing checkra1n for Apple TV on Linux
-permalink: /installing-checkra1n-tv/linux
+permalink: /zh_CN/installing-checkra1n-tv/linux
 extra_contributors:
   - stekc
   - Tanbeer191

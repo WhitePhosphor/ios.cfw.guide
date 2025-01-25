@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing unc0verTV
 description: Guide to installing unc0verTV
-permalink: /installing-unc0vertv
+permalink: /zh_CN/installing-unc0vertv
 0pkgman: nito.tv
 extra_contributors:
  - WhitetailAni

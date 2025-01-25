@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing PwnageTool
 description: Guide to installing PwnageTool
-permalink: /installing-pwnagetool
+permalink: /zh_CN/installing-pwnagetool
 redirect_from:
-  - /pwnagetool
+  - /zh-CN/pwnagetool
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

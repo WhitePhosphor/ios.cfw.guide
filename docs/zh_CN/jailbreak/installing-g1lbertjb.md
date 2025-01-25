@@ -2,11 +2,11 @@
 lang: zh_CN
 title: Installing g1lbertJB
 description: Guide to Installing g1lbertJB
-permalink: /installing-g1lbertJB
+permalink: /zh_CN/installing-g1lbertJB
 redirect_from:
-  - /g1lbert
-  - /g1lbertJB
-  - /g1JB
+  - /zh-CN/g1lbert
+  - /zh-CN/g1lbertJB
+  - /zh-CN/g1JB
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 ---

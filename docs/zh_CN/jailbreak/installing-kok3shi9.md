@@ -2,15 +2,15 @@
 lang: zh_CN
 title: Installing kok3shi9
 description: Guide to installing kok3shi9
-permalink: /installing-kok3shi9
+permalink: /zh_CN/installing-kok3shi9
 redirect_from:
-  - /installing-kokeshi
-  - /installing-kokeshi9
-  - /installing-kok3shi
-  - /kok3shi
-  - /kokeshi
-  - /kok3shi9
-  - /kokeshi9
+  - /zh-CN/zh-CN/installing-kokeshi
+  - /zh-CN/zh-CN/installing-kokeshi9
+  - /zh-CN/zh-CN/installing-kok3shi
+  - /zh-CN/zh-CN/kok3shi
+  - /zh-CN/zh-CN/kokeshi
+  - /zh-CN/zh-CN/kok3shi9
+  - /zh-CN/zh-CN/kokeshi9
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

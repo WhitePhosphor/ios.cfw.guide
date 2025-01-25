@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing backr00m
 description: Guide to installing backr00m
-permalink: /installing-backr00m
+permalink: /zh_CN/installing-backr00m
 0pkgman: nito.tv
 extra_contributors:
  - WhitetailAni

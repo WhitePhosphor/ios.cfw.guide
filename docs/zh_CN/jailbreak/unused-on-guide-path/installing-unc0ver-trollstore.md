@@ -2,9 +2,9 @@
 lang: en_US
 title: Installing unc0ver (TrollStore)
 description: Guide to installing unc0ver using TrollStore
-permalink: /installing-unc0ver-trollstore
+permalink: /zh_CN/installing-unc0ver-trollstore
 redirect_from:
-  - /installing-uncover-trollstore
+  - /zh-CN/installing-uncover-trollstore
 pkgman: Cydia
 extra_contributors:
   - opa334

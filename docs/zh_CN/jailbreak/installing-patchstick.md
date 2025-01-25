@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing Patchstick
 description: Guide to installing Patchstick
-permalink: /installing-patchstick
+permalink: /zh_CN/installing-patchstick
 redirect_from:
-    - /patchstick
+    - /zh-CN/patchstick
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: none
 extra_contributors:

@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Updating (Blobless) (Alternate Method)
 description: Guide on updating to unsigned firmwares without any blobs using Delay profiles.
-permalink: /updating-blobless-alternate
+permalink: /zh_CN/updating-blobless-alternate
 extra_contributors:
   - DhinakG
 ---

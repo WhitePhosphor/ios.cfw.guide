@@ -2,7 +2,7 @@
 lang: en_US
 title: Installing meowbrek2 (palera1n)
 description: Guide to installing meowbrek2 using palera1n
-permalink: /installing-meowbrek2-palera1n
+permalink: /zh_CN/installing-meowbrek2-palera1n
 pkgman: sileo
 ---
 

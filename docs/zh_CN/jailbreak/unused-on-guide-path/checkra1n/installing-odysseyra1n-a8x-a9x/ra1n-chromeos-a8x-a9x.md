@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Odysseyra1n (A8X/A9X) (ChromeOS)
 description: Guide to installing Odysseyra1n on ChromeOS on A8X and A9X devices
-permalink: /installing-odysseyra1n-chromeos-a8x-a9x
+permalink: /zh_CN/installing-odysseyra1n-chromeos-a8x-a9x
 redirect_from:
-  - /installing-checkra1n/chromeos/a8x-a9x
-  - /installing-checkra1n-chromeos-a8x-a9x
+  - /zh-CN/installing-checkra1n/chromeos/a8x-a9x
+  - /zh-CN/installing-checkra1n-chromeos-a8x-a9x
 extra_contributors:
   - DhinakG
   - Tanbeer191

@@ -1,27 +1,27 @@
 ---
 lang: zh_CN
-title: Updating (Blobless)
-description: Guide on updating to unsigned firmwares without any blobs using Dallas profiles.
-permalink: /updating-blobless
+title: 不带固件签名地更新
+description: 使用 Dallas 配置文件更新到未签名固件状态
+permalink: /zh_CN/updating-blobless
 redirect_from:
-  - /dallas
-  - /updating-(dallas)
-  - /updating-Dallas
-  - /updating-to-12-5-5-(blobless)
-  - /updating-to-14-3-(blobless)
-  - /updating-to-14-4-(blobless)
-  - /updating-to-14-4-1-(blobless)
-  - /updating-to-14-4-2-(blobless)
-  - /updating-to-14-5-(blobless)
-  - /updating-to-14-6-(blobless)
-  - /updating-to-14-7-(blobless)
-  - /updating-to-14-7-1-(blobless)
-  - /updating-to-14-8-(blobless)
-  - /updating-to-14-8-(blobless-alternate)
-  - /updating-to-15-0-2-(blobless)
-  - /updating-alternate-edit
-  - /updating-to-14-8-(dallas)
-  - /updating-(blobless)
+  - /zh-CN/dallas
+  - /zh-CN/updating-(dallas)
+  - /zh-CN/updating-Dallas
+  - /zh-CN/updating-to-12-5-5-(blobless)
+  - /zh-CN/updating-to-14-3-(blobless)
+  - /zh-CN/updating-to-14-4-(blobless)
+  - /zh-CN/updating-to-14-4-1-(blobless)
+  - /zh-CN/updating-to-14-4-2-(blobless)
+  - /zh-CN/updating-to-14-5-(blobless)
+  - /zh-CN/updating-to-14-6-(blobless)
+  - /zh-CN/updating-to-14-7-(blobless)
+  - /zh-CN/updating-to-14-7-1-(blobless)
+  - /zh-CN/updating-to-14-8-(blobless)
+  - /zh-CN/updating-to-14-8-(blobless-alternate)
+  - /zh-CN/updating-to-15-0-2-(blobless)
+  - /zh-CN/updating-alternate-edit
+  - /zh-CN/updating-to-14-8-(dallas)
+  - /zh-CN/updating-(blobless)
 extra_contributors:
   - DhinakG
 ---

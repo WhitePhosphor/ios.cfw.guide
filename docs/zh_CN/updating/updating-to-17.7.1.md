@@ -1,19 +1,19 @@
 ---
 lang: zh_CN
 title: 升级到 17.7.1
-permalink: /updating-to-17-7.1
+permalink: /zh_CN/updating-to-17-7.1
 redirect_from:
-    - /updating-to-17-7
-    - /updating-to-17-6-1
-    - /updating-to-17-6
-    - /updating-to-17-5-1
-    - /updating-to-17-5
-    - /updating-to-17-3-1
-    - /updating-to-17-3
-    - /updating-to-17-2
-    - /updating-to-17-1-1
-    - /updating-to-17-1
-    - /updating-to-17-0-3
+    - /zh-CN/updating-to-17-7
+    - /zh-CN/updating-to-17-6-1
+    - /zh-CN/updating-to-17-6
+    - /zh-CN/updating-to-17-5-1
+    - /zh-CN/updating-to-17-5
+    - /zh-CN/updating-to-17-3-1
+    - /zh-CN/updating-to-17-3
+    - /zh-CN/updating-to-17-2
+    - /zh-CN/updating-to-17-1-1
+    - /zh-CN/updating-to-17-1
+    - /zh-CN/updating-to-17-0-3
 ---
 
 ## 必读内容

@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Updating (Blobless) (Advanced)
 description: Guide on updating to unsigned firmwares without any blobs.
-permalink: /updating-blobless-advanced
+permalink: /zh_CN/updating-blobless-advanced
 extra_contributors:
   - ssalagginkool
 ---

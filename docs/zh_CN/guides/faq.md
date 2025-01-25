@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "FAQ"
 description: Frequently asked questions on jailbroken devices.
-permalink: /faq
+permalink: /zh_CN/faq
 redirect_from:
-  - /help/faq
+  - /zh-CN/help/faq
 extra_contributors:
   - Tanbeer191
   - TheHacker894

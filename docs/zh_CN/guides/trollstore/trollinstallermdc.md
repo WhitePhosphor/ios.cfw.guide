@@ -2,7 +2,7 @@
 lang: zh_CN
 title: 安装 TrollStore (TrollInstallerMDC)
 description: 通过 TrollInstallerMDC 安装 TrollStore
-permalink: /installing-trollstore-trollinstallermdc
+permalink: /zh_CN/installing-trollstore-trollinstallermdc
 sidebar: false
 redirect_from:
 extra_contributors:

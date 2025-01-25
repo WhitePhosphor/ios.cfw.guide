@@ -2,7 +2,7 @@
 lang: en_US
 title: Installing Taurine (Sideloadly)
 description: Guide to installing Taurine via Sideloadly
-permalink: /installing-taurine-sideloadly
+permalink: /zh_CN/installing-taurine-sideloadly
 pkgman: sileo
 extra_contributors:
   - hopolapopola

@@ -2,14 +2,14 @@
 lang: zh_CN
 title: Using palen1x (Rootful)
 excerpt: Guide to installing rootful palera1n via palen1x (Archived)
-permalink: /archived-palen1x-rootful
+permalink: /zh_CN/archived-palen1x-rootful
 pkgman: sileo
 extra_contributors:
   - Mineek
   - nebula
   - ssalagginkool
 redirect_from:
-  - /installing-palera1n-rootful
+  - /zh-CN/installing-palera1n-rootful
 ---
 
 ::: danger

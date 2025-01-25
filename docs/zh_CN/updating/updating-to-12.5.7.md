@@ -1,16 +1,16 @@
 ---
 lang: zh_CN
 title: 升级到 12.5.7
-permalink: /updating-to-12-5-7
+permalink: /zh_CN/updating-to-12-5-7
 redirect_from: 
-  - /updating-to-12-4-9
-  - /updating-to-12-5
-  - /updating-to-12-5-1
-  - /updating-to-12-5-2
-  - /updating-to-12-5-3
-  - /updating-to-12-5-4
-  - /updating-to-12-5-5
-  - /updating-to-12-5-6
+  - /zh-CN/updating-to-12-4-9
+  - /zh-CN/updating-to-12-5
+  - /zh-CN/updating-to-12-5-1
+  - /zh-CN/updating-to-12-5-2
+  - /zh-CN/updating-to-12-5-3
+  - /zh-CN/updating-to-12-5-4
+  - /zh-CN/updating-to-12-5-5
+  - /zh-CN/updating-to-12-5-6
 ---
 
 ## 必读内容

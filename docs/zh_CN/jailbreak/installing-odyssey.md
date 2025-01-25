@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Odyssey
 description: Guide to installing Odyssey
-permalink: /installing-odyssey
+permalink: /zh_CN/installing-odyssey
 redirect_from:
-  - /odyssey
-  - /od
+  - /zh-CN/odyssey
+  - /zh-CN/od
 pkgman: sileo
 extra_contributors:
   - TheHacker894

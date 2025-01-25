@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Recommended Repos"
 description: Information on popular repositories for jailbreak tweaks
-permalink: /recommended-repos
+permalink: /zh_CN/recommended-repos
 redirect_from:
-  - /repos
+  - /zh-CN/repos
 extra_contributors:
   - TheHacker894
   - itsnebulalol

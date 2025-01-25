@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing Odysseyra1n (A8X/A9X) (macOS)
 description: Guide to installing Odysseyra1n on macOS A8X and A9X devices
-permalink: /installing-odysseyra1n-a8x-a9x/macos
+permalink: /zh_CN/installing-odysseyra1n-a8x-a9x/macos
 redirect_from:
-  - /installing-odysseyra1n-a9x/macos
+  - /zh-CN/installing-odysseyra1n-a9x/macos
 extra_contributors:
   - stekc
   - Tanbeer191

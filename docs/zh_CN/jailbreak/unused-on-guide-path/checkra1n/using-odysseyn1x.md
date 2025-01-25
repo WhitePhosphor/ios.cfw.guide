@@ -2,21 +2,21 @@
 lang: zh_CN
 title: Using Odysseyn1x
 excerpt: Guide to installing checkra1n via Odysseyn1x
-permalink: /using-odysseyn1x
+permalink: /zh_CN/using-odysseyn1x
 pkgman: sileo
 redirect_from:
-  - /installing-odysseyn1x
-  - /using-odysseynix
-  - /odysseyn1x
-  - /odysseynix
-  - /using-bootra1n
-  - /using-bootrain
-  - /bootra1n
-  - /bootrain
-  - /using-checkn1x
-  - /using-checknix
-  - /checkn1x
-  - /checkn1x
+  - /zh-CN/installing-odysseyn1x
+  - /zh-CN/using-odysseynix
+  - /zh-CN/odysseyn1x
+  - /zh-CN/odysseynix
+  - /zh-CN/using-bootra1n
+  - /zh-CN/using-bootrain
+  - /zh-CN/bootra1n
+  - /zh-CN/bootrain
+  - /zh-CN/using-checkn1x
+  - /zh-CN/using-checknix
+  - /zh-CN/checkn1x
+  - /zh-CN/checkn1x
 extra_contributors:
   - stekc
   - ssalagginkool

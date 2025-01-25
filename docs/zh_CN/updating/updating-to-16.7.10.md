@@ -1,27 +1,27 @@
 ---
 lang: zh_CN
 title: 升级到 16.7.10
-permalink: /updating-to-16-7-10
+permalink: /zh_CN/updating-to-16-7-10
 redirect_from:
-    - /updating-to-16-0
-    - /updating-to-16-0-2
-    - /updating-to-16-0-3
-    - /updating-to-16-1
-    - /updating-to-16-1-1
-    - /updating-to-16-2
-    - /updating-to-16-3
-    - /updating-to-16-3-1
-    - /updating-to-16-4-1
-    - /updating-to-16-5
-    - /updating-to-16-5-1
-    - /updating-to-16-7
-    - /updating-to-16-7-1
-    - /updating-to-16-7-2
-    - /updating-to-16-7-3
-    - /updating-to-16-7-4
-    - /updating-to-16-7-5
-    - /updating-to-16-7-8
-    - /updating-to-16-7-9
+    - /zh-CN/updating-to-16-0
+    - /zh-CN/updating-to-16-0-2
+    - /zh-CN/updating-to-16-0-3
+    - /zh-CN/updating-to-16-1
+    - /zh-CN/updating-to-16-1-1
+    - /zh-CN/updating-to-16-2
+    - /zh-CN/updating-to-16-3
+    - /zh-CN/updating-to-16-3-1
+    - /zh-CN/updating-to-16-4-1
+    - /zh-CN/updating-to-16-5
+    - /zh-CN/updating-to-16-5-1
+    - /zh-CN/updating-to-16-7
+    - /zh-CN/updating-to-16-7-1
+    - /zh-CN/updating-to-16-7-2
+    - /zh-CN/updating-to-16-7-3
+    - /zh-CN/updating-to-16-7-4
+    - /zh-CN/updating-to-16-7-5
+    - /zh-CN/updating-to-16-7-8
+    - /zh-CN/updating-to-16-7-9
 ---
 
 ## 必读内容

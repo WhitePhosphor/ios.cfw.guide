@@ -2,12 +2,12 @@
 lang: en_US
 title: Installing Phœnix
 description: Guide to installing Phoenix
-permalink: /installing-phoenix
+permalink: /zh_CN/installing-phoenix
 redirect_from:
-  - /installing-phœnix
-  - /phœnix
-  - /phoenix
-  - /pn
+  - /zh-CN/installing-phœnix
+  - /zh-CN/phœnix
+  - /zh-CN/phoenix
+  - /zh-CN/pn
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

@@ -1,19 +1,19 @@
 ---
 lang: zh_CN
-title: Updating to 9.3.5 (iTunes/Finder)
-permalink: /updating-to-9-3-5-ipsw
+title: 升级到 9.3.5 (iTunes/Finder)
+permalink: /zh_CN/updating-to-9-3-5-ipsw
 ---
 
-## Required Reading
+## 必读内容
 
-Unfortunately, there is currently no jailbreak available for firmware versions 4.3 to 4.3.2 and 4.3.4 to 4.3.5 on iPad 2 devices. However, this device can update to 9.3.5 and use the kok3shi jailbreak instead.
+相当不幸的是，目前没有适用于 iPad 2 设备的 4.3 到 4.3.2 和 4.3.4 到 4.3.5 固件版本的越狱工具。不过它可以更新到 9.3.5 并使用 kok3shi 越狱工具。
 
-Due to the age of this iOS version, you will need to use iTunes or similar to manually update the device to iOS 9.3.5, as updating on the device was not a thing at the time of iOS 4.3.
+由于这个 iOS 版本的年代相当久远，你需要使用 iTunes 或类似工具手动将设备更新到 iOS 9.3.5，毕竟在 iOS 4.3 时代，设备上更新还不是件事。
 
-## Updating to 9.3.5
+## 使用 iTunes/访达 更新到 9.3.5
 
-1. Plug your device into your computer.
-1. On iTunes or Finder, locate your device.
-1. Select `Check for Update`.
-1. Select `Download and Update`
-    - Ensure that the version you are updating to is iOS 9.3.5
+1. 将设备插入电脑。
+1. 在 iTunes 或访达中找到您的设备。
+1. 选择 `检查更新`。
+1. 选择 `下载并更新`
+    - 确保你正在更新的版本是 iOS 9.3.5 即可。

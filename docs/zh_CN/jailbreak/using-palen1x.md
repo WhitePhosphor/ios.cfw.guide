@@ -2,14 +2,14 @@
 lang: zh_CN
 title: Using palen1x
 excerpt: Guide to installing palera1n via palen1x
-permalink: /using-palen1x
+permalink: /zh_CN/using-palen1x
 pkgman: sileo
 redirect_from:
-  - /installing-palen1x
-  - /using-palenix
-  - /palen1x
-  - /palenix
-  - /using-palen1x-rootless
+  - /zh-CN/installing-palen1x
+  - /zh-CN/using-palenix
+  - /zh-CN/palen1x
+  - /zh-CN/palenix
+  - /zh-CN/using-palen1x-rootless
 extra_contributors:
   - Mineek
   - nebula

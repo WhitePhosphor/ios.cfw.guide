@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing ChimeraTV
 description: Guide to installing ChimeraTV
-permalink: /installing-chimeratv
+permalink: /zh_CN/installing-chimeratv
 redirect_from:
-  - /chimera-tv
-  - /cm-tv
+  - /zh-CN/zh-CN/chimera-tv
+  - /zh-CN/zh-CN/cm-tv
 0pkgman: nito.tv
 extra_contributors:
  - WhitetailAni

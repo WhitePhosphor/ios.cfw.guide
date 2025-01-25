@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Evasi0n7
 description: Guide to installing Evasi0n7
-permalink: /installing-evasi0n7
+permalink: /zh_CN/installing-evasi0n7
 redirect_from:
-  - /evasion7
-  - /evasi0n7
+  - /zh-CN/evasion7
+  - /zh-CN/evasi0n7
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

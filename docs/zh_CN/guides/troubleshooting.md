@@ -2,7 +2,7 @@
 lang: zh_CN
 title: "Troubleshooting"
 description: Fixing common issues on jailbroken devices.
-permalink: /troubleshooting
+permalink: /zh_CN/troubleshooting
 extra_contributors:
   - iCrazeiOS
   - hopolapopola

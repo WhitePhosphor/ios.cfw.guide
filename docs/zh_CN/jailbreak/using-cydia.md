@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Using Cydia"
 description: Guide to using Cydia
-permalink: /using-cydia
+permalink: /zh_CN/using-cydia
 redirect_from:
-  - /cydia
+  - /zh-CN/zh-CN/cydia
 extra_contributors:
   - TheHacker894
 ---

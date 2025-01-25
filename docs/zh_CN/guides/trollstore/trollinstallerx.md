@@ -2,7 +2,7 @@
 lang: zh_CN
 title: 安装 TrollStore (TrollInstallerX)
 description: 通过 TrollInstallerX 安装 TrollStore 
-permalink: /installing-trollstore-trollinstallerx
+permalink: /zh_CN/installing-trollstore-trollinstallerx
 sidebar: false
 redirect_from:
 extra_contributors:

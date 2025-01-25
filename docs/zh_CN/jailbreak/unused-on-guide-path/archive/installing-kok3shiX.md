@@ -2,10 +2,10 @@
 lang: en_US
 title: Installing kok3shiX
 description: Guide to installing kok3shiX
-permalink: /installing-kok3shiX
+permalink: /zh_CN/installing-kok3shiX
 redirect_from:
-  - /kok3shiX
-  - /kokeshiX
+  - /zh-CN/kok3shiX
+  - /zh-CN/kokeshiX
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

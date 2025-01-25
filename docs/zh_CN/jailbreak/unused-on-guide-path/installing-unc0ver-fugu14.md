@@ -2,12 +2,12 @@
 lang: en_US
 title: Installing unc0ver (Fugu14)
 description: Guide to installing unc0ver with Fugu14
-permalink: /installing-unc0ver-fugu14
+permalink: /zh_CN/installing-unc0ver-fugu14
 pkgman: cydia
 redirect_from:
-  - /installing-uncover-fugu14
-  - /installing-unc0ver-(fugu14)
-  - /installing-uncover-(fugu14)
+  - /zh-CN/installing-uncover-fugu14
+  - /zh-CN/installing-unc0ver-(fugu14)
+  - /zh-CN/installing-uncover-(fugu14)
 extra_contributors:
  - Alriceee
 ---

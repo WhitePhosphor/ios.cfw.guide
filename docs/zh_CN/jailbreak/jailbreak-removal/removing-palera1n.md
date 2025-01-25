@@ -2,8 +2,8 @@
 lang: zh_CN
 title: Removing palera1n
 description: Guide to removing palera1n
-permalink: /removing-palera1n
-redirect_from: /removing-palerain
+permalink: /zh_CN/removing-palera1n
+redirect_from: /zh_CN/removing-palerain
 ---
 
 If you want to remove palera1n, you can use the below commands on a PC/Mac while your device is connected. To remove the jailbreak, you **do not have to restore**.

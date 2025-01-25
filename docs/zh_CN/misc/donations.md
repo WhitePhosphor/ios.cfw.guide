@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: "Donations"
-permalink: /donations
+title: "捐赠"
+permalink: /zh_CN/donations
 ---
 
 <div style="text-align: center; padding: 1em;">

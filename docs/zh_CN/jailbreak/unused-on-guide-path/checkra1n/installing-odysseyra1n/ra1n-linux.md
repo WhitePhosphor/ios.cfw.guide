@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing Odysseyra1n (Linux)
 description: Guide to installing Odysseyra1n on linux
-permalink: /installing-odysseyra1n/linux
+permalink: /zh_CN/installing-odysseyra1n/linux
 extra_contributors:
   - stekc
   - Tanbeer191

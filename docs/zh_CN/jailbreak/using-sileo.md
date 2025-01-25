@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Using Sileo"
 description: Guide to using Sileo
-permalink: /using-sileo
+permalink: /zh_CN/using-sileo
 redirect_from:
-  - /sileo
+  - /zh-CN/sileo
 extra_contributors:
   - TheHacker894
   - hopolapopola

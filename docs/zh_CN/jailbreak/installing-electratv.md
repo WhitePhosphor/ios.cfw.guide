@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing ElectraTV
 description: Guide to installing electratv
-permalink: /installing-electratv
+permalink: /zh_CN/installing-electratv
 0pkgman: nito.tv
 extra_contributors:
   - TheHacker894

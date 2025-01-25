@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing Dopamine (Sideloadly)
 description: Guide to installing Dopamine using Sideloadly
-permalink: /installing-dopamine-sideloadly
+permalink: /zh_CN/installing-dopamine-sideloadly
 pkgman: sileo
 extra_contributors:
   - opa334

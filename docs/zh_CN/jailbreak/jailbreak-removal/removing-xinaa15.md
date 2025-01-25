@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Removing XinaA15
 description: Guide to removing XinaA15
-permalink: /removing-xinaa15
+permalink: /zh_CN/removing-xinaa15
 ---
 
 Uninstalling a jailbreak isn't as simple as deleting the app. When you uninstall XinaA15, you need to go in the app and restore parts of the OS to how they were before your device was jailbroken.

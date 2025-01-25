@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Electra
 description: Guide to installing Electra
-permalink: /installing-electra
+permalink: /zh_CN/installing-electra
 redirect_from:
-  - /electra
-  - /el
+  - /zh-CN/electra
+  - /zh-CN/el
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: sileo
 extra_contributors:

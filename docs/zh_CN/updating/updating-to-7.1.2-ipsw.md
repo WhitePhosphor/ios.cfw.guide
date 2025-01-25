@@ -1,19 +1,19 @@
 ---
 lang: zh_CN
 title: Updating to 7.1.2 (iTunes/Finder)
-permalink: /updating-to-7-1-2-ipsw
+permalink: /zh_CN/updating-to-7-1-2-ipsw
 ---
 
 ## Required Reading
 
-Unfortunately, there is currently no jailbreak available for firmware version 4.2.5 on iPhone 4 (CDMA) devices. However, this device can update to 7.1.2 and jailbreak using pangu7 instead.
+相当不幸的是，目前没有适用于 iPhone 4 (CDMA) 设备的 4.2.5 固件版本的越狱工具。不过，这种设备可以更新到 7.1.2 并使用 pangu7 进行越狱。
 
-Due to the age of this iOS version, you will need to use iTunes or similar to manually update the device to iOS 7.1.2, as updating on the device was not a thing at the time of iOS 4.2.5.
+由于这个 iOS 版本的年代相当久远，你需要使用 iTunes 或类似工具手动将设备更新到 iOS 7.1.2，毕竟在 iOS 4.3 时代，设备上更新还不是件事。
 
-## Updating to 7.1.2 using iTunes/Finder
+## 使用 iTunes/访达 更新到 7.1.2
 
-1. Plug your device into your computer.
-1. On iTunes or Finder, locate your device.
-1. Select `Check for Update`.
-1. Select `Download and Update`
-    - Ensure that the version you are updating to is iOS 7.1.2
+1. 将设备插入电脑。
+1. 在 iTunes 或访达中找到您的设备。
+1. 选择 `检查更新`。
+1. 选择 `下载并更新`
+    - 确保你正在更新的版本是 iOS 7.1.2 即可。

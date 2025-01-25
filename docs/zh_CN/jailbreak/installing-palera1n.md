@@ -2,16 +2,16 @@
 lang: zh_CN
 title: Installing palera1n
 description: Guide to installing palera1n
-permalink: /installing-palera1n
+permalink: /zh_CN/installing-palera1n
 pkgman: sileo
 redirect_from:
-  - /installing-palerain
-  - /palera1n
-  - /palerain
-  - /installing-palera1n/linux
-  - /installing-palera1n/macos
-  - /installing-palera1n/windows
-  - /installing-palera1n-rootless
+  - /zh-CN/installing-palerain
+  - /zh-CN/palera1n
+  - /zh-CN/palerain
+  - /zh-CN/installing-palera1n/linux
+  - /zh-CN/installing-palera1n/macos
+  - /zh-CN/installing-palera1n/windows
+  - /zh-CN/installing-palera1n-rootless
 extra_contributors:
   - Mineek
   - nebula

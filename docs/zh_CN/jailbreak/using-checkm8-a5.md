@@ -2,12 +2,12 @@
 lang: zh_CN
 title: Using checkm8-a5
 description: Guide to using checkm8-a5
-permalink: /using-checkm8-a5
+permalink: /zh_CN/using-checkm8-a5
 extra_contributors:
   - selfisht
   - WhitetailAni
 redirect_from:
-  - /checkm8-a5
+  - /zh-CN/checkm8-a5
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: none
 ---

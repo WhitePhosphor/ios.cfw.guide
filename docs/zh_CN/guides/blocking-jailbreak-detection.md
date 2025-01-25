@@ -2,10 +2,10 @@
 lang: zh_CN
 title: "阻断越狱检测"
 description: 绕过并避免越狱检测
-permalink: /blocking-jailbreak-detection
+permalink: /zh_CN/blocking-jailbreak-detection
 redirect_from:
-  - /blocking
-  - /jailbreak-detection
+  - /zh-CN/blocking
+  - /zh-CN/jailbreak-detection
 extra_contributors:
   - Absolucy
   - TheHacker894

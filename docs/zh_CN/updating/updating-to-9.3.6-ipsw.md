@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
 title: 通过访达或 iTunes 更新到 9.3.6
-permalink: /updating-to-9-3-6-ipsw
+permalink: /zh_CN/updating-to-9-3-6-ipsw
 ---
 
 ## 必读内容

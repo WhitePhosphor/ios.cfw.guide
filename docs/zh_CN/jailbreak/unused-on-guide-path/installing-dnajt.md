@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing Def1nit3lyN0tAJa1lbr3akTool
 description: Guide to installing Def1nit3lyN0tAJa1lbr3akTool
-permalink: /installing-notajb
+permalink: /zh_CN/installing-notajb
 pkgman: sileo
 extra_contributors:
  - Alriceee

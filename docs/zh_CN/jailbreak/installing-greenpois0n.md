@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing greenpois0n
 description: Guide to installing greenpois0n
-permalink: /installing-greenpois0n
+permalink: /zh_CN/installing-greenpois0n
 redirect_from:
-    - /greenpois0n
+    - /zh-CN/greenpois0n
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 ---

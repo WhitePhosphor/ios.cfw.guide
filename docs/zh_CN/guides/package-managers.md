@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Package Managers"
 description: Information on the current package managers available to use
-permalink: /package-managers
+permalink: /zh_CN/package-managers
 redirect_from:
-  - /pkgman
+  - /zh-CN/pkgman
 extra_contributors:
   - TheHacker894
   - Tanbeer191

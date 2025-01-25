@@ -2,12 +2,12 @@
 lang: zh_CN
 title: 安装 TrollStore
 description: TrollStore 安装指南
-permalink: /installing-trollstore
+permalink: /zh_CN/installing-trollstore
 sidebar: false
 home: true
 hero: false
 redirect_from:
-  - /trollstore
+  - /zh-CN/zh-CN/trollstore
 extra_contributors:
   - alfiecg24
   - opa334

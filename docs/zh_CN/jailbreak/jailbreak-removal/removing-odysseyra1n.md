@@ -2,8 +2,8 @@
 lang: zh_CN
 title: Removing Odysseyra1n
 description: Guide to removing Odysseyra1n
-permalink: /removing-odysseyra1n
-redirect_from: /removing-odysseyrain
+permalink: /zh_CN/removing-odysseyra1n
+redirect_from: /zh_CN/removing-odysseyrain
 ---
 
 When you uninstall Odysseyra1n, you need to go and restore parts of the OS to how they were before your device was jailbroken.

@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing openpwnage
 description: Guide to installing openpwnage
-permalink: /installing-openpwnage
+permalink: /zh_CN/installing-openpwnage
 redirect_from:
-  - /openpwnage
+  - /zh-CN/openpwnage
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

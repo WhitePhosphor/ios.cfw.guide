@@ -2,13 +2,13 @@
 lang: zh_CN
 title: Home
 description: A complete iOS modding guide, from stock to jailbroken.
-permalink: /
+permalink: /zh_CN/
 home: true
 actions:
   - text: Get Started
     link: get-started
     type: secondary
-heroImage: /assets/images/splash.png
+heroImage: /zh_CN/assets/images/splash.png
 heroFilter: 0.3
 ---
 

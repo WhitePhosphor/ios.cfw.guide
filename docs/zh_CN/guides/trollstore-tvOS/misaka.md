@@ -2,7 +2,7 @@
 lang: zh_CN
 title: 安装 TrollStore (Misaka) (tvOS)
 description: 通过 Misaka 在 Apple TV 上安装 TrollStore 
-permalink: /installing-trollhelper-misaka-tvos
+permalink: /zh_CN/installing-trollhelper-misaka-tvos
 sidebar: false
 redirect_from:
 extra_contributors:

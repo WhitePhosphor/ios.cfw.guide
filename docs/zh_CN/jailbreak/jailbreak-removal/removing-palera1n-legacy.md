@@ -2,8 +2,8 @@
 lang: zh_CN
 title: Removing palera1n (Legacy)
 description: Guide to removing palera1n using the legacy version of palera1n
-permalink: /removing-palera1n-legacy
-redirect_from: /removing-palerain-legacy
+permalink: /zh_CN/removing-palera1n-legacy
+redirect_from: /zh_CN/removing-palerain-legacy
 ---
 
 If you want to remove palera1n, you can use the below commands on a PC/Mac while your device is connected in DFU. To remove the jailbreak, you **do not have to restore**.

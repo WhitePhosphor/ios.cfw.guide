@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Updating (Blobless) (Non-Jailbroken)
 description: Guide on updating to unsigned firmwares without any blobs using Delay profiles.
-permalink: /updating-blobless-nonjailbroken
+permalink: /zh_CN/updating-blobless-nonjailbroken
 extra_contributors:
   - DhinakG
 ---

@@ -2,13 +2,13 @@
 lang: en_US
 title: Installing sockH3lix
 description: Guide to installing sockH3lix
-permalink: /installing-sockh3lix
+permalink: /zh_CN/installing-sockh3lix
 redirect_from:
-  - /installing-sockhelix
-  - /sockhelix
-  - /sockh3lix
-  - /sh3
-  - /she
+  - /zh-CN/installing-sockhelix
+  - /zh-CN/sockhelix
+  - /zh-CN/sockh3lix
+  - /zh-CN/sh3
+  - /zh-CN/she
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

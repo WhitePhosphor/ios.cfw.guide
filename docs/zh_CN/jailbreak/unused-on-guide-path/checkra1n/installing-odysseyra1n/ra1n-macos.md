@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing Odysseyra1n (macOS)
 description: Guide to installing Odysseyra1n on macOS
-permalink: /installing-odysseyra1n/macos
+permalink: /zh_CN/installing-odysseyra1n/macos
 extra_contributors:
   - stekc
   - Tanbeer191

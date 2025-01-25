@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
 title: 升级到 9.3.6
-permalink: /updating-to-9-3-6
+permalink: /zh_CN/updating-to-9-3-6
 ---
 
 ## 必读内容

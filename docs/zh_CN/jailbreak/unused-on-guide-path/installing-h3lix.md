@@ -2,13 +2,13 @@
 lang: zh_CN
 title: Installing h3lix
 description: Guide to installing H3lix
-permalink: /installing-h3lix
+permalink: /zh_CN/installing-h3lix
 redirect_from:
-  - /installing-helix
-  - /helix
-  - /h3lix
-  - /h3
-  - /he
+  - /zh-CN/installing-helix
+  - /zh-CN/helix
+  - /zh-CN/h3lix
+  - /zh-CN/h3
+  - /zh-CN/he
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

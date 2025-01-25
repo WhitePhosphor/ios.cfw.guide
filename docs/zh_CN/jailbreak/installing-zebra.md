@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Installing Zebra"
 description: Guide to installing Zebra
-permalink: /installing-zebra
+permalink: /zh_CN/installing-zebra
 redirect_from:
-  - /install-zebra
+  - /zh-CN/install-zebra
 ---
 
 ## Introduction

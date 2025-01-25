@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Dopamine
 description: Guide to installing Dopamine using TrollStore
-permalink: /installing-dopamine
+permalink: /zh_CN/installing-dopamine
 pkgman: sileo
 redirect_from:
-  - /installing-fugu15max
+  - /zh-CN/installing-fugu15max
 extra_contributors:
   - opa334
   - iCraze

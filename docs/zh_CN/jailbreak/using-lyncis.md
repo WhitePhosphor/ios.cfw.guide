@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Using Lyncis
 description: Guide to using Lyncis
-permalink: /using-lyncis
+permalink: /zh_CN/using-lyncis
 redirect_from:
-  - /installing-lyncis
-  - /lyncis
+  - /zh-CN/installing-lyncis
+  - /zh-CN/lyncis
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 ---

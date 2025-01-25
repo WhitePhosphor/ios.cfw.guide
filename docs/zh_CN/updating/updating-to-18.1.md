@@ -1,9 +1,9 @@
 ---
 lang: zh_CN
 title: 更新到 18.1
-permalink: /updating-to-18-1
+permalink: /zh_CN/updating-to-18-1
 redirect_from:
-    - /updating-to-18-0
+    - /zh-CN/updating-to-18-0
 ---
 
 ## 必读内容

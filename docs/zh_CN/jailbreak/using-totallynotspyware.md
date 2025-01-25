@@ -2,22 +2,22 @@
 lang: zh_CN
 title: Using TotallyNotSpyware
 description: Guide to using TotallyNotSpyware
-permalink: /using-tns
+permalink: /zh_CN/using-tns
 redirect_from:
-  - /using-totallynotspyware
-  - /installing-tns
-  - /installing-totallynotspyware
-  - /totallynotspyware
-  - /tns
-  - /installing-doubleh3lix
-  - /installing-doublehelix
-  - /doubleh3lix
-  - /doublehelix
-  - /dh
-  - /using-meridian
-  - /installing-meridian
-  - /meridian
-  - /md
+  - /zh-CN/using-totallynotspyware
+  - /zh-CN/installing-tns
+  - /zh-CN/installing-totallynotspyware
+  - /zh-CN/totallynotspyware
+  - /zh-CN/tns
+  - /zh-CN/installing-doubleh3lix
+  - /zh-CN/installing-doublehelix
+  - /zh-CN/doubleh3lix
+  - /zh-CN/doublehelix
+  - /zh-CN/dh
+  - /zh-CN/using-meridian
+  - /zh-CN/installing-meridian
+  - /zh-CN/meridian
+  - /zh-CN/md
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

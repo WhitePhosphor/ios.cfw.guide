@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing Odysseyra1n (A8X/A9X) (Linux)
 description: Guide to installing Odysseyra1n on Linux on A8X and A9X devices
-permalink: /installing-odysseyra1n-a8x-a9x/linux
+permalink: /zh_CN/installing-odysseyra1n-a8x-a9x/linux
 redirect_from:
-  - /installing-odysseyra1n-a9x/linux
+  - /zh-CN/installing-odysseyra1n-a9x/linux
 extra_contributors:
   - stekc
   - Tanbeer191

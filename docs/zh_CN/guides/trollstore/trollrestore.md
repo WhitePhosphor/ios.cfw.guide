@@ -2,7 +2,7 @@
 lang: zh_CN
 title: 安装 TrollStore (TrollRestore)
 description: 通过 TrollRestore 安装 TrollStore
-permalink: /installing-trollstore-trollrestore
+permalink: /zh_CN/installing-trollstore-trollrestore
 sidebar: false
 redirect_from:
 extra_contributors:

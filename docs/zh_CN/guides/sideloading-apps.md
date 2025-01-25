@@ -2,21 +2,21 @@
 lang: zh_CN
 title: "Sideloading Apps"
 description: Guide to using sideloading and resigning your apps with or without a computer
-permalink: /sideloading-apps
+permalink: /zh_CN/sideloading-apps
 redirect_from:
-  - /resign
-  - /resigning
-  - /altstore
-  - /altdaemon
-  - /altserver
-  - /altdeploy
-  - /sideload
-  - /sideloading
-  - /reprovision
-  - /repro
-  - /reprovision-reborn
-  - /sideloadly
-  - /resigning-apps
+  - /zh-CN/resign
+  - /zh-CN/resigning
+  - /zh-CN/altstore
+  - /zh-CN/altdaemon
+  - /zh-CN/altserver
+  - /zh-CN/altdeploy
+  - /zh-CN/sideload
+  - /zh-CN/sideloading
+  - /zh-CN/reprovision
+  - /zh-CN/repro
+  - /zh-CN/reprovision-reborn
+  - /zh-CN/sideloadly
+  - /zh-CN/resigning-apps
 extra_contributors:
   - ssalagginkool
   - TheHacker894

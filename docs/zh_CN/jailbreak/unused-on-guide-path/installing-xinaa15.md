@@ -2,13 +2,13 @@
 lang: en_US
 title: Installing XinaA15
 description: Guide to installing XinaA15
-permalink: /installing-xinaa15
+permalink: /zh_CN/installing-xinaa15
 pkgman: sileo
 extra_contributors:
   - opa334
   - iCraze
 redirect_from:
-  - /xinaa15-archive
+  - /zh-CN/xinaa15-archive
 ---
 
 XinaA15 is a <router-link to="/types-of-jailbreak/#semi-untethered-jailbreaks">semi-untethered jailbreak</router-link>, meaning it requires an app to re-apply the exploit after a reboot.

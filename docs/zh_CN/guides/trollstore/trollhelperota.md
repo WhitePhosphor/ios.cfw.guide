@@ -2,17 +2,17 @@
 lang: zh_CN
 title: 安装 TrollStore (TrollHelperOTA)
 description: 通过 installd 漏洞安装 TrollStore
-permalink: /installing-trollstore-trollhelperota
+permalink: /zh_CN/installing-trollstore-trollhelperota
 sidebar: false
 redirect_from:
-  - /trollhelperota
-  - /installing-trollinstaller2
-  - /trollinstaller2
-  - /installing-trollinstaller
-  - /trollinstaller
-  - /installing-trollstore-sshrd
-  - /sshrd
-  - /trollstore-sshrd
+  - /zh-CN/zh-CN/trollhelperota
+  - /zh-CN/zh-CN/installing-trollinstaller2
+  - /zh-CN/zh-CN/trollinstaller2
+  - /zh-CN/zh-CN/installing-trollinstaller
+  - /zh-CN/zh-CN/trollinstaller
+  - /zh-CN/zh-CN/installing-trollstore-sshrd
+  - /zh-CN/zh-CN/sshrd
+  - /zh-CN/zh-CN/trollstore-sshrd
 extra_contributors:
   - opa334
   - iCraze

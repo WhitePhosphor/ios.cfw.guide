@@ -2,10 +2,10 @@
 lang: zh_CN
 title: "Restoring with blobs using FutureRestore"
 description: Guide to using FutureRestore to restore your device 
-permalink: /futurerestore
+permalink: /zh_CN/futurerestore
 redirect_from:
-  - /future-restore
-  - /restoring-to-14-3
+  - /zh-CN/future-restore
+  - /zh-CN/restoring-to-14-3
 extra_contributors:
   - Tanbeer191
   - TheHacker894

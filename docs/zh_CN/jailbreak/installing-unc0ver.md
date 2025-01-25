@@ -2,13 +2,13 @@
 lang: zh_CN
 title: Installing unc0ver
 description: Guide to installing unc0ver
-permalink: /installing-unc0ver
+permalink: /zh_CN/installing-unc0ver
 redirect_from:
-  - /installing-uncover
-  - /unc0ver
-  - /uncover
-  - /u0
-  - /uo
+  - /zh-CN/installing-uncover
+  - /zh-CN/unc0ver
+  - /zh-CN/uncover
+  - /zh-CN/u0
+  - /zh-CN/uo
 pkgman: cydia
 extra_contributors:
   - TheHacker894

@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
 title: 升级到 10.3.4
-permalink: /updating-to-10-3-4
+permalink: /zh_CN/updating-to-10-3-4
 ---
 
 ## 必读内容

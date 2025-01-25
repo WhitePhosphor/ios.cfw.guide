@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing Dopamine (TrollRestore)
 description: Guide to installing Dopamine by installing TrollStore via TrollRestore
-permalink: /installing-dopamine-trollrestore
+permalink: /zh_CN/installing-dopamine-trollrestore
 pkgman: sileo
 extra_contributors:
   - opa334

@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing HomeDepot
 description: Guide to installing HomeDepot
-permalink: /installing-homedepot
+permalink: /zh_CN/installing-homedepot
 redirect_from:
-  - /homedepot
-  - /hd
+  - /zh-CN/homedepot
+  - /zh-CN/hd
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

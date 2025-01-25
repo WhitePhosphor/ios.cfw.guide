@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing TrollStore (tvOS)
 description: Guide to installing TrollStore on an Apple TV
-permalink: /installing-trollstore-tvos
+permalink: /zh_CN/installing-trollstore-tvos
 sidebar: false
 home: true
 hero: false

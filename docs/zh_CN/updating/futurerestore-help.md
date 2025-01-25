@@ -1,12 +1,12 @@
 ---
 lang: zh_CN
-title: "FutureRestore issues Help"
-description: Provides solutions to some FR issues.
-permalink: /futurerestore-help
+title: "FutureRestore 问题帮助"
+description: 为 FutureRestore 出现的一些问题提供帮助
+permalink: /zh_CN/futurerestore-help
 redirect_from:
-  - /frhelp
-  - /futurerestorehelp
-  - /FutureRestoreHelp
+  - /zh-CN/frhelp
+  - /zh-CN/futurerestorehelp
+  - /zh-CN/FutureRestoreHelp
 extra_contributors:
   - Tanbeer191
   - TheHacker894

@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Chimera
 description: Guide to installing Chimera
-permalink: /installing-chimera
+permalink: /zh_CN/installing-chimera
 redirect_from:
-  - /chimera
-  - /cm
+  - /zh-CN/chimera
+  - /zh-CN/cm
 pkgman: sileo
 extra_contributors:
   - TheHacker894

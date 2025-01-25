@@ -2,12 +2,12 @@
 lang: zh_CN
 title: Using JailbreakMe Saffron
 description: Guide to using JailbreakMe (Saffron)
-permalink: /using-jailbreakme-saffron
+permalink: /zh_CN/using-jailbreakme-saffron
 redirect_from:
-  - /installing-jailbreakme-saffron
-  - /installing-saffron
-  - /saffron
-  - /jailbreakme-saffron
+  - /zh-CN/zh-CN/installing-jailbreakme-saffron
+  - /zh-CN/zh-CN/installing-saffron
+  - /zh-CN/zh-CN/saffron
+  - /zh-CN/zh-CN/jailbreakme-saffron
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 ---

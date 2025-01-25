@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Removing Taurine
 description: Guide to removing Taurine
-permalink: /removing-taurine
+permalink: /zh_CN/removing-taurine
 ---
 
 Uninstalling a jailbreak isn't as simple as deleting the app. When you uninstall either Taurine, you need to go in the app and restore parts of the OS to how they were before your device was jailbroken.

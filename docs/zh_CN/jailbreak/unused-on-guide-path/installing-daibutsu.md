@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing Daibutsu
 description: Guide to installing Daibutsu
-permalink: /installing-daibutsu
+permalink: /zh_CN/installing-daibutsu
 redirect_from:
-  - /daibutsu
+  - /zh-CN/daibutsu
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

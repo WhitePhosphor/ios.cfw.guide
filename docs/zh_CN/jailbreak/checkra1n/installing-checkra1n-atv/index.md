@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing checkra1n (Apple TV)
 description: Guide to installing checkra1n for Apple TV
-permalink: /installing-checkra1n-tv
+permalink: /zh_CN/installing-checkra1n-tv
 0pkgman: nito.tv
 extra_contributors:
   - stekc

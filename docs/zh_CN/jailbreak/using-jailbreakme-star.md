@@ -2,12 +2,12 @@
 lang: zh_CN
 title: Using JailbreakMe Star
 description: Guide to using JailbreakMe (Star)
-permalink: /using-jailbreakme-star
+permalink: /zh_CN/using-jailbreakme-star
 redirect_from:
-  - /installing-jailbreakme-star
-  - /installing-star
-  - /star
-  - /jailbreakme-star
+  - /zh-CN/zh-CN/installing-jailbreakme-star
+  - /zh-CN/zh-CN/installing-star
+  - /zh-CN/zh-CN/star
+  - /zh-CN/zh-CN/jailbreakme-star
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

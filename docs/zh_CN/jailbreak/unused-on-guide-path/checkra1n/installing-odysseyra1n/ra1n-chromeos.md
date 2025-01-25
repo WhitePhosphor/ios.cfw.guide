@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Odysseyra1n (ChromeOS)
 description: Guide to installing Odysseyra1n on ChromeOS
-permalink: /installing-odysseyra1n-chromeos
+permalink: /zh_CN/installing-odysseyra1n-chromeos
 redirect_from:
-  - /installing-checkra1n/chromeos
-  - /installing-checkra1n-chromeos
+  - /zh-CN/installing-checkra1n/chromeos
+  - /zh-CN/installing-checkra1n-chromeos
 extra_contributors:
   - DhinakG
   - Tanbeer191

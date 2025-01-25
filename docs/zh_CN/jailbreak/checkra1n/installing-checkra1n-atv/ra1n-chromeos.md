@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing checkra1n for Apple TV (ChromeOS)
 description: Guide to installing checkra1n for Apple TV on ChromeOS
-permalink: /installing-checkra1n-tv/chromeos
+permalink: /zh_CN/installing-checkra1n-tv/chromeos
 extra_contributors:
   - DhinakG
   - Tanbeer191

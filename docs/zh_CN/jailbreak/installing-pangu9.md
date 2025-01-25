@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing Pangu9
 excerpt: Guide to installing Pangu9
-permalink: /installing-pangu9
+permalink: /zh_CN/installing-pangu9
 redirect_from:
-  - /pangu9
+  - /zh-CN/pangu9
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

@@ -2,11 +2,11 @@
 lang: zh_CN
 title: Installing EtasonJB
 description: Guide to installing etasonjb
-permalink: /installing-etasonjb
+permalink: /zh_CN/installing-etasonjb
 redirect_from:
-  - /etasonjb
-  - /es
-  - /eta
+  - /zh-CN/etasonjb
+  - /zh-CN/es
+  - /zh-CN/eta
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

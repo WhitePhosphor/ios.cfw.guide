@@ -2,7 +2,7 @@
 lang: en_US
 title: Installing meowbrek2
 description: Guide to installing meowbrek2
-permalink: /installing-meowbrek2
+permalink: /zh_CN/installing-meowbrek2
 pkgman: sileo
 ---
 

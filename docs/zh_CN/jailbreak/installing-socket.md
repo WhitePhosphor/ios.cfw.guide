@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing Socket
 description: Guide to installing Socket
-permalink: /installing-socket
+permalink: /zh_CN/installing-socket
 redirect_from:
-  - /socket
+  - /zh-CN/socket
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: zebra
 extra_contributors:

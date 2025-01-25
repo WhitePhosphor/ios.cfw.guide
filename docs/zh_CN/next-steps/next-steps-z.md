@@ -1,61 +1,61 @@
 ---
 lang: zh_CN
-title: "Next Steps"
-permalink: /next-steps-z
+title: "下一步"
+permalink: /zh_CN/next-steps-z
 sidebar: false
 ---
 
-## Required Reading
+## 必读内容
 
 ::: tip
 
-Every page linked here is optional, but all of them are useful and/or helpful if you are unfamiliar with jailbreaking.
+每个在这里链接的界面都是选读的。但是如果你不熟悉界面的话，这些界面对你来说会很有用。
 
 :::
 
-## Recommended Next Steps
+## 推荐的下一步骤
 
-### Using Zebra
+### 使用 Zebra
 
-If you don't know how to use Zebra, the package manager included with your jailbreak, this page can be a great resource to figure out how to use Zebra.
+如果你不知道怎么用越狱时自带的包管理器 Zebra，这个界面将是对你使用 Zebra 的最佳使用指导。
 
 ::: tip
 
-Continue to <router-link to="/using-zebra">Using Zebra</router-link>
+这个界面将会说明如何 <router-link to="/using-zebra">使用 Zebra</router-link>。
 
 :::
 
-### Blocking Software Updates
+### 阻断软件更新
 
-It's recommended to block software updates, especially on newer devices where updating to the latest iOS version will result in the inability to jailbreak your device.
+我们建议阻止软件更新，特别是对于较新的设备。更新到最新的 iOS 版本将导致无法你的设备无法越狱。
 
-As it is a highly important thing for individuals jailbreaking to be aware of, this page can allow you to figure out and understand the best way of disabling software updates
+由于这是越狱用户需要注意的一个非常重要的事项，这个页面可以帮助你找到并了解禁用软件更新的最佳方法。
 
 ::: tip
 
-Continue to <router-link to="/blocking-updates">Blocking Updates</router-link>
+<router-link to="/blocking-updates">这个界面</router-link> 将会说明如何阻断更新。
 
 :::
 
-### Saving Blobs
+### 保存固件签名（Blobs）
 
-Saving Blobs are an especially important step in jailbreaking, as, depending on SEP and (if using a cellular device) Baseband compatibility, you may be able to restore back to an unsigned version or the version you are on if something goes wrong, instead of restoring to the latest signed version.
+保存固件签名是越狱过程中一个特别重要的步骤。为保证 SEP 和基带（如果你的设备能使用移动数据）的兼容性，如果出现问题，你可以通过保存的签名恢复到未签名的版本或未出现问题之前，而不是恢复到最新的签名版本。
 
 ::: tip
 
-Continue to <router-link to="/saving-blobs">Saving Blobs</router-link>
+<router-link to="/saving-blobs">这个界面</router-link> 将会说明如何保存固件签名。
 
 :::
 
-## Other Useful Next Steps
+## 其他有用的额外步骤
 
-### Adding Recommended Repos
+### 添加推荐的源
 
-This page contains a list of repositories that, if you do not already have, it is recommended to add, as they contain various tweaks and packages which can be extremely useful for jailbroken devices.
+下面这个界面包含一个推荐源列表。如果你还没有添加这些源，我们建议你添加它们，因为它们包含了各种对越狱设备非常有用的调整包和软件包。
 
 ::: tip
 
-Continue to <router-link to="/recommended-repos">Recommended Repos</router-link>
+<router-link to="/recommended-repos">这个界面</router-link> 包含了我们推荐的源。
 
 :::
 

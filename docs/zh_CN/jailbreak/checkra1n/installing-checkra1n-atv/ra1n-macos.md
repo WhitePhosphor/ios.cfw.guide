@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing checkra1n for Apple TV (macOS)
 description: Guide to installing checkra1n for Apple TV on macOS
-permalink: /installing-checkra1n-tv/macos
+permalink: /zh_CN/installing-checkra1n-tv/macos
 extra_contributors:
   - stekc
   - Tanbeer191

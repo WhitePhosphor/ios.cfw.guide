@@ -2,12 +2,12 @@
 lang: zh_CN
 title: Installing p0sixspwn
 description: Guide to installing p0sixspwn
-permalink: /installing-p0sixspwn
+permalink: /zh_CN/installing-p0sixspwn
 redirect_from:
-  - /installing-posixpwn
-  - /p0sixpwn
-  - /posixpwn
-  - /p0
+  - /zh-CN/installing-posixpwn
+  - /zh-CN/p0sixpwn
+  - /zh-CN/posixpwn
+  - /zh-CN/p0
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

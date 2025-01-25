@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Odysseyra1n (A8X/A9X)
 description: Guide to installing Odysseyra1n on A8X and A9X devices
-permalink: /installing-odysseyra1n-a8x-a9x
+permalink: /zh_CN/installing-odysseyra1n-a8x-a9x
 pkgman: sileo
 redirect_from:
-  - /installing-odysseyra1n-a9x
+  - /zh-CN/installing-odysseyra1n-a9x
 extra_contributors:
   - stekc
   - Tanbeer191

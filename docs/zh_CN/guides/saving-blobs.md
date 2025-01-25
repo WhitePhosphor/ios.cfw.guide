@@ -2,13 +2,13 @@
 lang: zh_CN
 title: "Saving Blobs"
 excerpt: Guide to saving blobs to secure your ability to downgrade iOS in the future.
-permalink: /saving-blobs
+permalink: /zh_CN/saving-blobs
 redirect_from:
-  - /blobs
-  - /blob
-  - /save-blobs
-  - /save-blob
-  - /saving-blob
+  - /zh-CN/blobs
+  - /zh-CN/blob
+  - /zh-CN/save-blobs
+  - /zh-CN/save-blob
+  - /zh-CN/saving-blob
 extra_contributors:
   - TheHacker894
   - airsquared

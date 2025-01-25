@@ -2,11 +2,11 @@
 lang: zh_CN
 title: Installing limera1n
 description: Guide to installing limera1n
-permalink: /installing-limera1n
+permalink: /zh_CN/installing-limera1n
 redirect_from:
-  - /installing-limerain
-  - /limera1n
-  - /limerain
+  - /zh-CN/installing-limerain
+  - /zh-CN/limera1n
+  - /zh-CN/limerain
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 ---

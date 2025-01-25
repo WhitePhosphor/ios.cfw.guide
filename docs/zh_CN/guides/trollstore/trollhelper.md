@@ -2,12 +2,12 @@
 lang: zh_CN
 title: 通过 TrollHelper 安装 TrollStore
 description: 通过 TrollStore Helper 包安装 TrollStore
-permalink: /installing-trollstore-trollhelper
+permalink: /zh_CN/installing-trollstore-trollhelper
 sidebar: false
 redirect_from:
-  - /installing-trollstorehelper
-  - /trollhelper
-  - /trollstorehelper
+  - /zh-CN/installing-trollstorehelper
+  - /zh-CN/trollhelper
+  - /zh-CN/trollstorehelper
 extra_contributors:
   - opa334
 ---

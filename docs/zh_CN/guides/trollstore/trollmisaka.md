@@ -2,7 +2,7 @@
 lang: zh_CN
 title: 安装 TrollStore (TrollMisaka)
 description: 通过 TrollMisaka 安装 TrollStore
-permalink: /installing-trollstore-trollmisaka
+permalink: /zh_CN/installing-trollstore-trollmisaka
 sidebar: false
 redirect_from:
 extra_contributors:

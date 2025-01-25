@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Installing LiberTV
 description: Guide to installing LiberTV
-permalink: /installing-libertv
+permalink: /zh_CN/installing-libertv
 0pkgman: nito.tv
 extra_contributors:
   - WhitetailAni

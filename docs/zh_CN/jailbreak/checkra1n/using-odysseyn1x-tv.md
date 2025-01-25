@@ -2,13 +2,13 @@
 lang: zh_CN
 title: Using Odysseyn1x (Apple TV)
 excerpt: Guide to installing checkra1n for Apple TV via Odysseyn1x
-permalink: /using-odysseyn1x-tv
+permalink: /zh_CN/using-odysseyn1x-tv
 0pkgman: nito.tv
 redirect_from:
-  - /installing-odysseyn1x-tv
-  - /using-odysseynix-tv
-  - /odysseyn1x-tv
-  - /odysseynix-tv
+  - /zh-CN/installing-odysseyn1x-tv
+  - /zh-CN/using-odysseynix-tv
+  - /zh-CN/odysseyn1x-tv
+  - /zh-CN/odysseynix-tv
 extra_contributors:
   - stekc
   - flowerible

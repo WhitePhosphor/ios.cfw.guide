@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Coolbooter"
 description: Guide to using Coolbooter to dualboot two different versions of iOS on your 32 bit device
-permalink: /using-coolbooter
+permalink: /zh_CN/using-coolbooter
 redirect_from:
-  - /coolbooter
+  - /zh-CN/coolbooter
 discordNoticeText: For support in English, ask for help on the r/LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 extra_contributors:
   - TheHacker894

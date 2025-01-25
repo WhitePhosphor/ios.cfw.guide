@@ -2,10 +2,10 @@
 lang: zh_CN
 title: Installing Taurine
 description: Guide to installing Taurine using TrollStore
-permalink: /installing-taurine
+permalink: /zh_CN/installing-taurine
 redirect_from:
-  - /taurine
-  - /tr
+  - /zh-CN/taurine
+  - /zh-CN/tr
 pkgman: sileo
 extra_contributors:
   - opa334

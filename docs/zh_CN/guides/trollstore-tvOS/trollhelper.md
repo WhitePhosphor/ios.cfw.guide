@@ -2,7 +2,7 @@
 lang: zh_CN
 title: 安装 TrollStore (TrollHelper) (tvOS)
 description: 通过 TrollStore Helper 包安装 TrollStore
-permalink: /installing-trollhelper-tvos
+permalink: /zh_CN/installing-trollhelper-tvos
 sidebar: false
 extra_contributors:
   - opa334

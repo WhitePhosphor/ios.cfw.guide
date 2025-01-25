@@ -1,8 +1,8 @@
 ---
 lang: zh_CN
-title: "Credits"
-description: Website and author credits
-permalink: /credits
+title: "制作人员"
+description: 网站和制作人员名单
+permalink: /zh_CN/credits
 ---
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
@@ -59,9 +59,9 @@ permalink: /credits
   </div>
 </div>
 
-## Credits
+## 制作人员名单
 
-If I forgot you here, contact us or submit an issue and we'll add your name.
+如果我们忘记了在这添加你的名字，联系我们或者是发一个 issue，你的名字就会出现在这了。
 
 <pre>
   + raizo

@@ -2,9 +2,9 @@
 lang: zh_CN
 title: Installing wtfis
 description: Guide to installing wtfis
-permalink: /installing-wtfis
+permalink: /zh_CN/installing-wtfis
 redirect_from:
-  - /wtfis
+  - /zh-CN/wtfis
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

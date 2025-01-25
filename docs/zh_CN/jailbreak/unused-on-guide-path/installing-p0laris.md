@@ -2,10 +2,10 @@
 lang: en_US
 title: Installing p0laris
 description: Guide to installing p0laris
-permalink: /installing-p0laris
+permalink: /zh_CN/installing-p0laris
 redirect_from:
-  - /p0laris
-  - /polaris
+  - /zh-CN/p0laris
+  - /zh-CN/polaris
 discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
 pkgman: cydia
 extra_contributors:

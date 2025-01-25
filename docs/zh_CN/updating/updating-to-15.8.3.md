@@ -1,33 +1,33 @@
 ---
 lang: zh_CN
 title: Updating to 15.8.3
-permalink: /updating-to-15-8-3
+permalink: /zh_CN/updating-to-15-8-3
 redirect_from:
-    - /updating-to-15-0
-    - /updating-to-15-0-1
-    - /updating-to-15-0-2
-    - /updating-to-15-1
-    - /updating-to-15-2
-    - /updating-to-15-2-1
-    - /updating-to-15-3
-    - /updating-to-15-3-1
-    - /updating-to-15-4
-    - /updating-to-15-4-1
-    - /updating-to-15-5
-    - /updating-to-15-6
-    - /updating-to-15-6-1
-    - /updating-to-15-7
-    - /updating-to-15-7-1
-    - /updating-to-15-7-2
-    - /updating-to-15-7-3
-    - /updating-to-15-7-4
-    - /updating-to-15-7-5
-    - /updating-to-15-7-6
-    - /updating-to-15-7-7
-    - /updating-to-15-7-9
-    - /updating-to-15-8
-    - /updating-to-15-8-1
-    - /updating-to-15-8-2
+    - /zh-CN/updating-to-15-0
+    - /zh-CN/updating-to-15-0-1
+    - /zh-CN/updating-to-15-0-2
+    - /zh-CN/updating-to-15-1
+    - /zh-CN/updating-to-15-2
+    - /zh-CN/updating-to-15-2-1
+    - /zh-CN/updating-to-15-3
+    - /zh-CN/updating-to-15-3-1
+    - /zh-CN/updating-to-15-4
+    - /zh-CN/updating-to-15-4-1
+    - /zh-CN/updating-to-15-5
+    - /zh-CN/updating-to-15-6
+    - /zh-CN/updating-to-15-6-1
+    - /zh-CN/updating-to-15-7
+    - /zh-CN/updating-to-15-7-1
+    - /zh-CN/updating-to-15-7-2
+    - /zh-CN/updating-to-15-7-3
+    - /zh-CN/updating-to-15-7-4
+    - /zh-CN/updating-to-15-7-5
+    - /zh-CN/updating-to-15-7-6
+    - /zh-CN/updating-to-15-7-7
+    - /zh-CN/updating-to-15-7-9
+    - /zh-CN/updating-to-15-8
+    - /zh-CN/updating-to-15-8-1
+    - /zh-CN/updating-to-15-8-2
 ---
 
 ## 必读内容

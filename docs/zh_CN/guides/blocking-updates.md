@@ -2,7 +2,7 @@
 lang: zh_CN
 title: Blocking Updates
 description: How to block updates on your iOS or iPadOS device.
-permalink: /blocking-updates
+permalink: /zh_CN/blocking-updates
 extra_contributors:
   - Tanbeer191
   - Jack LaFond

@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Using Zebra"
 description: Guide to using Zebra
-permalink: /using-zebra
+permalink: /zh_CN/using-zebra
 redirect_from:
-  - /zebra
+  - /zh-CN/zebra
 extra_contributors:
   - TheHacker894
   - hopolapopola

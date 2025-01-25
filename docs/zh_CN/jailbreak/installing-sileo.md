@@ -2,9 +2,9 @@
 lang: zh_CN
 title: "Installing Sileo"
 description: Guide to installing Sileo
-permalink: /installing-sileo
+permalink: /zh_CN/installing-sileo
 redirect_from:
-  - /install-sileo
+  - /zh-CN/install-sileo
 ---
 
 ## Introduction
