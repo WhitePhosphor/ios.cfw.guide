@@ -3,7 +3,7 @@ module.exports = [
     text: '指南',
     children: [
       {
-        text: 'saving blobs',// 我不知道这是啥姬八 +1 see it 等下
+        text: '保留固件签名',
         link: '/zh_CN/saving-blobs/',
       },
       {

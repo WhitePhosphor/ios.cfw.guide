@@ -7,6 +7,10 @@ const config = {
 		path: '/it_IT/',
 		content: require('./it_IT'),
 	},
+	zh_CN: {
+		path: '/zh_CN/',
+		content: require('./zh_CN'),
+	}
 }
 
 var localePath = {}
