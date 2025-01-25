@@ -14,7 +14,7 @@ extra_contributors:
   - iCraze
 ---
 
-# Installing TrollStore
+# 安装 TrollStore
 
 ::: tip
 

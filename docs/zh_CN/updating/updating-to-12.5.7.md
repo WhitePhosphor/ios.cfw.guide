@@ -1,6 +1,6 @@
 ---
 lang: zh_CN
-title: Updating to 12.5.7
+title: 升级到 12.5.7
 permalink: /updating-to-12-5-7
 redirect_from: 
   - /updating-to-12-4-9
@@ -13,33 +13,33 @@ redirect_from:
   - /updating-to-12-5-6
 ---
 
-## Required Reading
+## 必读内容
 
-Unfortunately, there is currently no jailbreak available for firmware version 8.0 to 8.4.1 on 64-bit devices. However, some devices, such as the iPhone 6, can update to 12.5.7 and use the Chimera jailbreak instead.
+相当不幸的是，目前没有适用于 64 位设备的 8.0 到 8.4.1 固件版本的越狱工具。不过，一些设备（如 iPhone 6）可以更新到 12.5.7 并使用 Chimera 越狱工具。
 
-This is achieved by simply updating through the Settings application normally. Because the latest available version for these devices is 12.5.7, we can easily update to this firmware version.
+升级完全可以通过“设置”内的系统更新来实现。由于这些设备的最新版本是 12.5.7，因此我们可以轻松更新到所需的固件版本。
 
-If you have installed update blocking via tvOS Beta profiles, you must first remove that profile before updating. If you don't know what this means, ignore this.
+如果你已通过 tvOS Beta 配置文件安装了阻止更新功能，那么你必须先删除该配置文件才能更新。如果你不知道这意味着什么，请忽略此内容。
 
-## Removing Profiles
+## 删除配置文件
 
-::: tip
+::: 提示
 
-Only follow this if you have installed update blocking in the past.
+只有在之前做过阻止更新相关的设置时才需要遵循此步骤。
 
 :::
 
-1. Open the Settings application
-1. Tap `General` -> `Profile`
-    - This may also be called `Profile and Device Management`
-1. Tap on the tvOS Beta Software Profile
-    - If this is not there, you can skip to the next section of the guide
-1. Tap `Remove Downloaded Profile`
+1. 打开设置应用程序
+1. 点击 `通用` -> `配置文件`
+    - 这也可能被称为 `配置文件和设备管理`
+1. 点击 tvOS Beta 软件配置文件
+    - 如果不存在此配置文件，可以跳到指南的下一部分
+1. 点击 `删除已下载的配置文件`
 
-## Updating to 12.5.7
+## 更新到 12.5.7
 
-1. Plug your device into power and connect to the Internet with Wi-Fi
-1. Open the Settings application
-1. Tap `General` -> `Software Update`
-    - Ensure that the version you are updating to is 12.5.7
-1. Download and install the update
+1. 将设备插入电源并连接到 Wi-Fi 网络
+1. 打开设置
+1. 点击 `通用` -> `软件更新`
+    - 确保你正在更新的版本是 12.5.7
+1. 下载并安装更新

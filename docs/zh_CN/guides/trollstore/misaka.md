@@ -12,7 +12,7 @@ extra_contributors:
 
 ## 需求
 
-- 一台正在运行 iOS/iPadOS 16.0 ~ 16.6.1 之内的 iOS/iPadOS 的设备
+- 一台正在运行 iOS/iPadOS 16.0 到 16.6.1 的 iOS/iPadOS 的设备
 - 你的设备上已经安装了 “提示” 应用
 - 最新版本的 [Sideloadly](https://sideloadly.io/)
 - 如果你正在使用 Windows，那么需要最新版本的 [iTunes](https://www.apple.com/itunes/download/win64) 

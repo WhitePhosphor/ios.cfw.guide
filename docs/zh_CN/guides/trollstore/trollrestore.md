@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Installing TrollStore (TrollRestore)
-description: Guide to installing TrollStore via TrollRestore
+title: 安装 TrollStore (TrollRestore)
+description: 通过 TrollRestore 安装 TrollStore
 permalink: /installing-trollstore-trollrestore
 sidebar: false
 redirect_from:
@@ -11,34 +11,34 @@ extra_contributors:
   - Dhinak
 ---
 
-## Requirements
+## 需求
 
-- A device running iOS/iPadOS 15.2 to 16.6.1, 16.7 RC (20H18), or 17.0
-- The latest version of [python3](https://www.python.org/downloads)
-- The latest version of [iTunes](https://www.apple.com/itunes/download/win64) if on Windows.
-- The latest version of [TrollRestore](https://github.com/JJTech0130/TrollRestore/releases) for your platform.
-    - For Windows, this will be `TrollRestore.exe`
-    - For Apple Silicon Macs, this will be `TrollRestore_macOS_arm64.zip`
-    - For Intel-based Macs, this will be `TrollRestore_macOS_amd64.zip`
-    - For Linux, this will be `TrollRestore_Linux.zip`
+- 一台正在运行 iOS/iPadOS 15.2 到 16.6.1，16.7 RC (20H18)，或者是 17.0 的设备
+- 最新版的 [python3](https://www.python.org/downloads)
+- 如果你正在使用 Windows，那么需要最新版本的 [iTunes](https://www.apple.com/itunes/download/win64) 
+- 根据你的操作系统选择最新版的 [TrollRestore](https://github.com/JJTech0130/TrollRestore/releases)
+    - Windows 用户请选择 `TrollRestore.exe`
+    - 搭载了 Apple Silicon 的 Mac 用户请选择 `TrollRestore_macOS_arm64.zip`
+    - 搭载了 Intel 的 Mac 用户请选择 `TrollRestore_macOS_amd64.zip`
+    - Linux 用户请选择 `TrollRestore_Linux.zip`
 
 ::: warning
 
-Before continuing, if you're using *macOS* or *Linux*, extract the contents of the downloaded TrollRestore `.zip` file.
+在继续下一步之前，如果你正在使用 *macOS* 或者 *Linux*，你需要先解压下载下来的 TrollRestore `.zip`。
 
 :::
 
 ::: warning
 
-As this method of installing TrollStore involves restoring a modified backup, you'll need to disable Find My before continuing with this guide.
+由于此方法涉及到恢复修改后的备份，因此在继续下面的步骤之前你需要先禁用 “查找我的 iPhone” 。
 
-After this guide is complete, you are free to re-enable Find My.
+完成这些步骤后你可以重新启用 “查找我的 iPhone” 。
 
 :::
 
-## Running TrollRestore
+## 运行 TrollRestore
 
-Please select your operating system:
+选择你正在运行的操作系统：
 
 :::::: tabs
 
@@ -46,30 +46,30 @@ Please select your operating system:
 
 ::: warning
 
-The build of TrollRestore for *Intel-based Macs* is not notarized, which means you'll either need to Double Click while holding Control (if on macOS Sonoma or earlier) or by attempting to open it normally, and then opening `System Settings` -> `Privacy & Security` and scrolling down until you see `Open Anyway`.
+由于适用于 *搭载了 Intel 的 Mac* 的 TrollRestore 版本未经过公共签名，你需要按住 Control 键双击（如果你的 Mac 运行了 macOS Sonoma 或更早版本），或者尝试正常打开它，然后打开 `系统设置` -> `隐私与安全性` 并向下滚动直到看到 `仍要打开`。
 
-Alternatively, if you're running into issues doing this, you can follow the `Linux` tab instead, as those steps work on all platforms (but are slightly more involved than the normal steps listed in this tab).
+如果你在操作过程中遇到问题，你也可以按照 `Linux` 标签中的步骤进行操作，因为这些步骤适用于所有平台（但比本标签中列出的正常步骤稍微复杂一些）。
 
 :::
 
-### Injecting TrollStore Helper
+### 注入 TrollStore Helper
 
-1. Plug your iOS device into your computer.
-    - Make sure your computer is trusted and allowed to view the contents of your device
-1. Open a File Explorer (Windows) or Finder (macOS) window.
-1. Navigate to where the downloaded/extracted file is saved.
-    - This will likely be the `Downloads` folder.
-1. Double Click `TrollRestore`.
-1. When prompted, type in the name of a system app you want to overwrite, and press enter.
-    - If you are unsure as to what app you want to overwrite, overwrite the Tips app by entering `Tips`
+1. 把你的 iOS 设备连接到电脑上。
+    - 确保你的电脑已标记为被信任的设备，并且被允许从电脑上查看手机内容
+1. 打开文件资源管理器 (Windows) 或者是访达 (macOS) 
+1. 定位到存储了下载 / 解压文件的文件夹
+    - 大部分都会在 `下载` 文件夹里，如果你没有改过下载路径的话。
+1. 双击 `TrollRestore`.
+1. 当提示你输入要覆盖的系统应用名称时，输入名称并回车
+    - 如果你不确定要覆盖哪个应用，可以直接选择 `提示`
 
 ::: tip
 
-Until the device reboots, there is no visual indication *on the device itself* that anything is being done.
+除了设备重启可以作为这些步骤顺利完成的标志之外，*设备上* 不会提示任何相关内容。
 
 :::
 
-The TrollStore Helper should now be restored to your device, and your device will reboot once this process is complete.
+TrollStore Helper 现在应该已经安装到你的设备上了。在你完成这些步骤之后，你的设备应该会重启一次。
 
 ::::
 
@@ -77,49 +77,49 @@ The TrollStore Helper should now be restored to your device, and your device wil
 
 ::: tip
 
-While this tab (and the associated zip file) are for Linux platforms, all other platforms can follow this tab and use the Linux `.zip` file as an alternative to the normal executable files.
+虽然这个标签（以及相关的 zip 文件）是针对 Linux 的，但所有其他平台也可以按照这个标签的步骤操作，并使用 Linux `.zip` 文件作为正常可执行文件的替代方案。
 
 :::
 
-### Installing Dependencies
+### 安装依赖项
 
-1. Open a terminal application
-1. Run `cd <path/to/TrollRestore>`
-    - In most cases, this will likely mean running `cd ~/Downloads/TrollRestore_Linux`
-1. Run `pip3 install -r requirements.txt` and follow the on screen prompts
+1. 打开控制台应用程序
+1. 运行 `cd <path/to/TrollRestore>`
+    - 大部分情况下应该是 `cd ~/Downloads/TrollRestore_Linux`
+1. 运行 `pip3 install -r requirements.txt` 然后跟随屏幕上的提示进行操作。
 
-All dependencies needed for TrollRestore should now be installed.
+现在所有 TrollRestore 需要的依赖项应该都已经安装好了。
 
-### Injecting TrollStore Helper
+### 注入 TrollStore Helper
 
-1. Plug your iOS device into your computer
-    - Make sure your computer is trusted and allowed to view the contents of your device
-1. *In the same terminal window as the previous section*, run `python3 trollstore.py`
-1. When prompted, type in the name of a system app you want to overwrite, and press enter.
-    - If you are unsure as to what app you want to overwrite, overwrite the Tips app by entering `Tips`
+1. 把你的 iOS 设备连接到电脑上。
+    - 确保你的电脑已标记为被信任的设备，并且被允许从电脑上查看手机内容
+1. *在和前一个步骤一样的终端窗口里*，运行 `python3 trollstore.py`
+1. 当提示你输入要覆盖的系统应用名称时，输入名称并回车
+    - 如果你不确定要覆盖哪个应用，可以直接选择 `提示`
 
 ::: tip
 
-Until the device reboots, there is no visual indication *on the device itself* that anything is being done.
+除了设备重启可以作为这些步骤顺利完成的标志之外，*设备上* 不会提示任何相关内容。
 
 :::
 
-The TrollStore Helper should now be restored to your device, and your device will reboot once this process is complete.
+TrollStore Helper 现在应该已经安装到你的设备上了。在你完成这些步骤之后，你的设备应该会重启一次。
 
 ::::
 
 ::::::
 
-## Installing TrollStore
+## 安装 TrollStore
 
-1. Unlock your device.
-1. Open the app you originally put in.
-1. Tap `Install TrollStore`
+1. 解锁设备。
+1. 打开你注入 TrollStore Helper 的应用。
+1. 点击 `Install TrollStore`
 
-Your device should respring, and TrollStore should now be installed.
+你的设备应该会刷新，然后 Trollstore 就会安装在你的设备上了。
 
-## Installing Persistence Helper
+## 安装持久化助手
 
-1. Open the `TrollStore` app on your home screen
-1. Press `Settings`, then press `Install Persistence Helper`
-1. Select `Tips` from the list of apps
+1. 打开 `TrollStore`
+1. 点击 `Settings`，然后点击 `Install Persistence Helper`
+1. 从应用列表中选择 `提示`

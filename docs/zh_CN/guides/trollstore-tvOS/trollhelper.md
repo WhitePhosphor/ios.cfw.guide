@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Installing TrollStore (TrollHelper) (tvOS)
-description: Guide to installing TrollStore via the TrollStore Helper package
+title: 安装 TrollStore (TrollHelper) (tvOS)
+description: 通过 TrollStore Helper 包安装 TrollStore
 permalink: /installing-trollhelper-tvos
 sidebar: false
 extra_contributors:
@@ -10,43 +10,42 @@ extra_contributors:
 
 ::: danger
 
-This is a stub page, nothing listed here is accurate whatsoever (it is currently a direct copy paste of the iOS one), but is being used as a placeholder for when a jailbreak method to install TrollStore is developed for tvOS
+这只是一个存根页，此处列出的内容完全不准确（目前是这里是直接复制粘贴的 iOS 版本的操作指南），但在开发出为 tvOS 安装 TrollStore 的越狱方法后，这里将会用作一个占位符。
 
 :::
 
 ## Requirements
 
-You will need:
-- A jailbroken device running iOS 14.0 beta 2 to 16.6.1, 16.7 RC (20H18) or iPadOS 17.0
-- A functioning package manager
+- 一台正在运行 iOS 14.0 beta 2 至 16.6.1， 16.7 RC (20H18) 或 iPadOS 17.0 的**已越狱**设备
+- 一个能工作的包管理器
 
 ::: tip
 
-If it's not already added, you'll also need to add the `havoc.app` repo to your package manager
+如果还没添加 `havoc.app` 软件源，你需要先去添加一下它。
 
 :::
 
-## Installing TrollStore
+## 安装 TrollStore
 
-1. In your package manager, search and install the `TrollStore Helper` package
-1. After installing, close your package manager
-1. Open the `TrollHelper` app on your home screen
-1. Press `Install TrollStore`
+1. 在你的包管里搜索 `TrollStore Helper` 包
+1. 安装之后关闭包管，可以在桌面上找到 `TrollHelper`
+1. 打开 `TrollHelper` 
+1. 点击 `Install TrollStore`
 
-Your device should respring, and TrollStore should now be installed.
+你的设备应该会刷新，之后 TrollStore 就会安装在你的设备上了。
 
 ::: danger
 
-If you're on iOS 15.0 or later, you have to do the below steps, or you won't be able to access TrollStore after rebooting your device into stock iOS.
+如果你的设备正在运行 iOS 15.0 或更高版本，你必须执行以下步骤，否则设备重启到原生 iOS 之后你将无法启动 TrollStore。
 
-If you're on iOS 14.0 to 14.8.1, you can safely ignore these below steps.
+如果你正在使用 iOS 14.0 至 14.8.1，可以忽略以下步骤。
 
 :::
 
-## Installing Persistence Helper
+## 安装持久化助手
 
-1. Open the `TrollStore` app on your home screen
-1. Press `Settings`, then press `Install Persistence Helper`
-1. Select `Tips` from the list of apps
+1. 打开主屏幕上的 `TrollStore`
+1. 点击 `Settings`，然后点击 `Install Persistence Helper`
+1. 从应用列表中选择 `提示`
 
-Once you reboot your device, open the `Tips` app (which you set as the persistence helper) and press `Refresh App Registrations`.
+重启设备之后，打开 `提示` 应用（或者其他任何你设置为持久化助手的应用）并点击 `Refresh App Registrations`。

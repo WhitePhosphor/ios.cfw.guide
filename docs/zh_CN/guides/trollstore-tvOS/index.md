@@ -16,23 +16,23 @@ extra_contributors:
 
 ::: tip
 
-For support in English, ask for help on the r/Jailbreak [Discord Server](https://discord.gg/jb).
+你可以在 r/Jailbreak 的[Discord 服务器](https://discord.gg/jb) 上获取**英语**帮助。
 
 :::
 
 ::: danger
 
-TrollStore is **not** a jailbreak.
+TrollStore **不是**越狱。
 
 :::
 
-TrollStore is a tool which uses a CoreTrust bug in order to permanently sign any app with any entitlements which are necessary for the apps functioning.
+TrollStore 是一个相当实用的工具。它能利用 CoreTrust 漏洞永久签名并安装几乎任何具有几乎任何权限的应用程序。TrollStore 的最新版本（尤其是 2.0 及更高版本）在某些代码签名未被正确验证的情况下通过 CoreTrust 漏洞工作。
 
-Installing TrollStore is a process which varies depending on Apple TV and tvOS you are running, as a result, different guides are attached below depending on said combination
+安装 TrollStore 的过程因设备和 iOS 版本的不同而有所不同。以下是这些不同组合对应的安装指南。
 
 ::: danger
 
-If your device is on tvOS 14.0 *beta 1* or earlier, or is running tvOS 17.1 or newer, it will **never** be supported by TrollStore.
+如果你的设备正在运行 tvOS 14.0 *beta 1* 或更早版本，或者正在运行 17.1 或更新版本，这些设备将 **永远** 不会支持 TrollStore。
 
 :::
 
@@ -47,8 +47,8 @@ If your device is on tvOS 14.0 *beta 1* or earlier, or is running tvOS 17.1 or n
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center; font-weight: bold;">From</th>
-      <th style="text-align: center; font-weight: bold;">To</th>
+      <th style="text-align: center; font-weight: bold;">从</th>
+      <th style="text-align: center; font-weight: bold;">到</th>
       <th style="text-align: center; font-weight: bold;">arm64 (A8 / A10X)</th>
       <th style="text-align: center; font-weight: bold;">arm64e (A12 / A13)</th>
     </tr>
@@ -56,13 +56,13 @@ If your device is on tvOS 14.0 *beta 1* or earlier, or is running tvOS 17.1 or n
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;" colspan="2">14.0 beta 1 and earlier</td>
-      <td style="text-align: center;" colspan="2">Unsupported</td>
+      <td style="text-align: center;" colspan="2">不支持</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">14.0 beta 2</td>
       <td style="text-align: center; font-weight: bold;">14.8.1</td>
-      <td style="text-align: center;">Coming Soon</td>
-      <td style="text-align: center;">No Installation Method</td>
+      <td style="text-align: center;">即将到来</td>
+      <td style="text-align: center;">没有安装方法</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">15.0</td>
@@ -72,12 +72,12 @@ If your device is on tvOS 14.0 *beta 1* or earlier, or is running tvOS 17.1 or n
     <tr>
       <td style="text-align: center; font-weight: bold;">17.0</td>
       <td style="text-align: center; font-weight: bold;">17.0</td>
-      <td style="text-align: center;">Coming Soon</td>
-      <td style="text-align: center;">No Installation Method</td>
+      <td style="text-align: center;">即将到来</td>
+      <td style="text-align: center;">没有安装方法</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;" colspan="2">17.1 and later</td>
-      <td style="text-align: center;" colspan="2">Unsupported</td>
+      <td style="text-align: center;" colspan="2">不支持</td>
     </tr>
   </tbody>
 </table>

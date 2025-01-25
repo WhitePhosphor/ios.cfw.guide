@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Installing TrollStore (TrollStar)
-description: Guide to installing TrollStore via TrollStar
+title: 安装 TrollStore (TrollStar)
+description: 通过 TrollStar 安装 TrollStore
 permalink: /installing-trollstore-trollstar
 sidebar: false
 redirect_from:
@@ -13,64 +13,64 @@ extra_contributors:
 ## Requirements
 
 - A device running iOS/iPadOS 16.0 to 16.6.1
-- The Tips app installed to your device
-- The latest version of [Sideloadly](https://sideloadly.io/)
-- The latest version of [iTunes](https://www.apple.com/itunes/download/win64) if on Windows.
-- The latest version of [TrollStar](https://github.com/34306/TrollStar/releases/latest)
+- 你的设备上已经安装了 “提示” 应用
+- 最新版本的 [Sideloadly](https://sideloadly.io/)
+- 如果你正在使用 Windows，那么需要最新版本的 [iTunes](https://www.apple.com/itunes/download/win64) 
+- 最新版本的 [TrollStar](https://github.com/34306/TrollStar/releases/latest)
 
-## Installing the application
+## 安装程序
 
-1. Open Sideloadly
-1. Plug your iOS device into your computer
-    - Make sure your computer is trusted and allowed to view the contents of your device
-1. Drag and drop the TrollStar `.ipa` file into Sideloadly
-1. Enter in your Apple ID
-1. Enter in your password
+1. 打开 Sideloadly
+1. 把你的 iOS 设备连接到电脑上
+    - 确保你的电脑已标记为被信任的设备，并且被允许从电脑上查看手机内容
+1. 把 TrollStar `.ipa` 拖进 Sideloadly
+1. 输入你的 Apple ID
+1. 输入你的密码
 
-The app will now install to your iOS device.
+然后软件就会安装到你的 iOS 设备上了。
 
-## Trusting the application
+## 信任软件
 
-1. Go to `Settings` -> `General` -> `Device Management` -> `<Your Apple ID>`
-    - Depending on your usage, `Device Management` may be labeled `Profiles and Device Management`
-1. Tap `Trust "<Your Apple ID>"`
+1. 打开 `设置` -> `通用` -> `设备管理` -> `<你的 Apple ID>`
+    - 鉴于使用不同，`设备管理` 也有可能叫做 `描述文件与设备管理`。
+1. 点击 `信任 "<你的 Apple ID>"`
 
-The TrollStar application can now be opened from home screen.
+然后 TrollStar 就可以从桌面上打开了。
 
 ::: danger
 
-If you don't have it enabled already, you'll also need to enable Developer Mode.
+如果你还没有启用开发者模式，你还需要启用它。
 
-To do so, go into `Settings` -> `Privacy & Security` and then scroll down until you see `Developer Mode`, tap that option, toggle Developer Mode on, and follow the on-screen instructions
+如果要启用开发者模式，打开 `设置` -> `隐私和安全` 然后下滑直到你看见 `开发者模式`，点击进入这个设置项目并打开开发者模式并跟随屏幕上提示的操作即可。
 
 :::
 
-## Injecting TrollStore Helper
+## 注入 TrollStore Helper
 
 ::: warning
 
-This method may take several tries in order to work successfully.
+这种方法可能要尝试好几次才能成功，耐心。
 
 :::
 
-1. Open TrollStar
-1. Tap `Click here to start!`
-    - If the device reboots, wait a few minutes, then try again
-1. Tap `Install TrollStore Helper to Tips`
-1. Tap `Respring to Apply`
+1. 打开 TrollStar
+1. 点击 `Click here to start!`
+    - 如果设备重启了，那就等几分钟再试一次
+1. 点击 `Install TrollStore Helper to Tips`
+1. 点击 `Respring to Apply`
 
-Your device will respring after you tap `Respring to Apply`.
+在你点击 `Respring to Apply` 之后你的设备应该会重启。
 
-## Installing TrollStore
+## 安装 TrollStore
 
-1. Unlock your device
-1. Open the Tips app
-1. Tap `Install TrollStore`
+1. 解锁设备
+1. 打开 “提示”
+1. 点击 `Install TrollStore`
 
-Your device should respring, and TrollStore should now be installed.
+你的设备应该会刷新，然后 Trollstore 就会安装在你的设备上了。
 
-## Installing Persistence Helper
+## 安装持久化助手
 
-1. Open the `TrollStore` app on your home screen
-1. Press `Settings`, then press `Install Persistence Helper`
-1. Select `Tips` from the list of apps
+1. 打开 `TrollStore`
+1. 点击 `Settings`，然后点击 `Install Persistence Helper`
+1. 从应用列表中选择 `提示`

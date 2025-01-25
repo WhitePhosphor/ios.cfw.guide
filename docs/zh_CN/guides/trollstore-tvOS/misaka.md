@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Installing TrollStore (Misaka) (tvOS)
-description: Guide to installing TrollStore via Misaka on an Apple TV
+title: 安装 TrollStore (Misaka) (tvOS)
+description: 通过 Misaka 在 Apple TV 上安装 TrollStore 
 permalink: /installing-trollhelper-misaka-tvos
 sidebar: false
 redirect_from:
@@ -9,59 +9,59 @@ extra_contributors:
   - opa334
 ---
 
-## Requirements
+## 需求
 
-- An Apple TV running tvOS 15.0 to 16.6
-- The latest version of [Sideloadly](https://sideloadly.io/)
-- The latest version of [iTunes](https://www.apple.com/itunes/download/win32) if on Windows
-- The latest version of [Misaka](https://github.com/straight-tamago/misaka/releases/latest)
+- 一台正在运行 tvOS 15.0 到 16.6 的 Apple TV
+- 最新版本的 [Sideloadly](https://sideloadly.io/)
+- 如果你正在使用 Windows，那么需要最新版本的 [iTunes](https://www.apple.com/itunes/download/win32) 
+- 最新版本的 [Misaka](https://github.com/straight-tamago/misaka/releases/latest)
 
-## Installing the application
+## 安装程序
 
-1. Open Sideloadly
-1. Plug your iOS device into your computer
-    - Make sure your computer is trusted and allowed to view the contents of your device
-1. Drag and drop the Misaka `.ipa` file into Sideloadly
-1. Enter in your Apple ID
-1. Enter in your password
-    - Sideloadly must make a request to it's servers in order to work with free developer accounts. If you are not OK with this, you may use an alternate Apple ID.
+1. 打开 Sideloadly
+1. 把你的 iOS 设备连接到电脑上
+    - 确保你的电脑已标记为被信任的设备，并且被允许从电脑上查看手机内容
+1. 把 Misaka `.ipa` 拖进 Sideloadly
+1. 输入你的 Apple ID
+1. 输入你的密码
+    - 为了使用免费的开发者账号，Sideloadly 需要给它的服务器发送一些请求。如果你不愿意这么做，可以使用其他的 Apple ID。
 
-The app will now install to your iOS device.
+然后软件就会安装到你的 iOS 设备上了。
 
-## Trusting the application
+## 信任软件
 
-1. Go to `Settings` -> `General` -> `Device Management` -> `<Your Apple ID>`
-    - Depending on your usage, `Device Management` may be labeled `Profiles and Device Management`
-1. Tap `Trust "<Your Apple ID>"`
+1. 打开 `设置` -> `通用` -> `设备管理` -> `<你的 Apple ID>`
+    - 鉴于使用不同，`设备管理` 也有可能叫做 `描述文件与设备管理`。
+1. 点击 `信任 "<你的 Apple ID>"`
 
-The Misaka application can now be opened from home screen.
+然后 Misaka 就可以从桌面上打开了。
 
 ::: danger
 
-If you don't have it enabled already, you'll also need to enable Developer Mode.
+如果你还没有启用开发者模式，你还需要启用它。
 
-To do so, go into `Settings` -> `Privacy & Security` and then scroll down until you see `Developer Mode`, tap that option, toggle Developer Mode on, and follow the on-screen instructions
+如果要启用开发者模式，打开 `设置` -> `隐私和安全` 然后下滑直到你看见 `开发者模式`，点击进入这个设置项目并打开开发者模式并跟随屏幕上提示的操作即可。
 
 :::
 
-## Injecting TrollStore Helper
+## 注入 TrollStore Helper
 
 ::: warning
 
-This method may take several tries in order to work successfully.
+这种方法可能要尝试好几次才能成功，耐心。
 
 :::
 
-1. Open Misaka
-1. Go to the "Packages [Emu/Var]" tab
-1. Tap on the bottom left button (known as "ToolBox") and tap `Install TrollStore`, then tap `Tips`
+1. 打开 Misaka
+1. 点开 "Packages [Emu/Var]" 选项栏
+1. 点击左下角的按钮（称为 "ToolBox" 的按钮），然后点击 `Install TrollStore`，接着点击 `Tips`
 
-Your device will respring after you tap `Tips`.
+当你点击 `Tips` 之后你的设备就会进行一次刷新。
 
-## Installing TrollStore
+## 安装 TrollStore
 
-1. Unlock your device
-1. Open the Tips app
-1. Tap `Install TrollStore`
+1. 解锁设备
+1. 打开 “提示”
+1. 点击 `Install TrollStore`
 
-Your device should respring, and TrollStore should now be installed.
+你的设备应该会刷新，然后 Trollstore 就会安装在你的设备上了。

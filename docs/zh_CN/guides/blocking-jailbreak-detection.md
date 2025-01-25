@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: "Blocking Jailbreak Detection"
-description: Bypassing and avoiding jailbreak detection.
+title: "阻断越狱检测"
+description: 绕过并避免越狱检测
 permalink: /blocking-jailbreak-detection
 redirect_from:
   - /blocking
@@ -13,13 +13,13 @@ extra_contributors:
 
 ::: danger
 
-We do not recommend using banking apps on a jailbroken device. Use a separate secure device to access your bank account.
+我们并不建议在越狱设备上使用与金融有关的应用，比如支付宝和各大银行的应用。如果有能力的话，尽量用另一台设备来使用这些应用。
 
 :::
 
-Many apps, which rely on security, will have algorithms to detect and block jailbroken users from using the app. This includes banking apps, some online videogames (e.g. Pokemon Go, Mario Kart Tour) and other privacy focused apps such as Snapchat.
+许多注重安全性的应用程序会有算法来检测并阻止越狱用户使用这些应用程序。这些应用包括各大银行的应用程序、一些在线游戏（例如 Pokemon Go、Mario Kart Tour）以及其他注重隐私的应用程序，如 Snapchat。
 
-This is great from a security standpoint, as a jailbroken device is much more likely to become compromised compared to stock iOS. This can cause an issue, however, when some of us just want to use the apps we need to use.
+从安全角度来看，这的确是一个好的操作，毕竟越狱设备比原生 iOS 设备更容易被攻破。然而，当我们只是想使用一些必要的应用程序时，这可能会成为一个问题。
 
 ::: danger
 
@@ -28,12 +28,12 @@ Blocking jailbreak detection can stop you from accessing photos and other files 
 :::
 
 Now, we'll go through each tweak that can be used to minimize jailbreak detection. Some apps, however, cannot be patched and will not work when jailbroken, regardless of the content below. Other apps may need bypasses made specifically for them.
-## Tweaks
+## 调整包
 
 - [A-Bypass](cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.co.kr/&package=com.rpgfarm.a-bypass) (<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.co.kr/">repo.co.kr</a>)
 - [Liberty Lite (Beta)](cydia://url/https://cydia.saurik.com/api/share#?source=https://ryleyangus.com/repo/&package=com.ryleyangus.libertylite.beta) (<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ryleyangus.com/repo/">ryleyangus.com/repo</a>)
 - [Choicy](cydia://url/https://cydia.saurik.com/api/share#?source=https://opa334.github.io/&package=com.opa334.choicy) (<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://opa334.github.io/">opa334.github.io</a>)
-- Libhooker Configurator (available on the Odyssey repo)
+- Libhooker Configurator (可以在 Odyssey repo 中获取)
 - [KernBypass](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.ichitaso.com/&package=jp.akusio.kernbypass-unofficial) (<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.ichitaso.com/">cydia.ichitaso.com</a>)
 - [vnodebypass](cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.xsf1re.kr/&package=kr.xsf1re.vnodebypass) (<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.xsf1re.kr/">repo.xsf1re.kr</a>)
 

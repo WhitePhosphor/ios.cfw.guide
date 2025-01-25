@@ -1,35 +1,36 @@
 ---
 lang: zh_CN
-title: Updating to 10.3.4
+title: 升级到 10.3.4
 permalink: /updating-to-10-3-4
 ---
 
-## Required Reading
+## 必读内容
 
-Unfortunately, there is currently no jailbreak available for firmware versions 8.0 to 8.3 on 32-bit devices. However some devices, such as the iPhone 5, can update to 10.3.4 and use the socket jailbreak instead.
+相当不幸的是，目前没有适用于 32 位设备的 8.0 到 8.3 固件版本的越狱工具。不过，一些设备（如 iPhone 5）可以更新到 10.3.4 并使用 socket 越狱。
 
-This is achieved by simply updating through the Settings application normally. Because the latest version for these devices is 10.3.4, we can easily update to the desired firmware version, due to the age of the devices.
+升级完全可以通过“设置”内的系统更新来实现。由于这些设备的最新版本是 10.3.4，因此我们可以轻松更新到所需的固件版本。
 
-If you have installed update blocking via tvOS Beta profiles, you must first remove that profile before updating. If you don't know what this means, ignore this.
+如果你已通过 tvOS Beta 配置文件安装了阻止更新功能，那么你必须先删除该配置文件才能更新。如果你不知道这意味着什么，请忽略此内容。
 
-## Removing Profiles
+## 删除配置文件
 
-::: tip
+::: 提示
 
-Only follow this if you've installed update blocking in the past.
+只有在之前做过阻止更新相关的设置时才需要遵循此步骤。
 
 :::
 
-1. Open the Settings application
-1. Tap `General` -> `Profile`
-    - This may also be called `Profile and Device Management`
-1. Tap on the tvOS Beta Software Profile
-    - If this is not there, you can skip to the next section of the guide
-1. Tap `Remove Downloaded Profile`
+1. 打开设置应用程序
+1. 点击 `通用` -> `配置文件`
+    - 这也可能被称为 `配置文件和设备管理`
+1. 点击 tvOS Beta 软件配置文件
+    - 如果不存在此配置文件，可以跳到指南的下一部分
+1. 点击 `删除已下载的配置文件`
 
-## Updating to 10.3.4
+## 更新到 10.3.4
 
-1. Plug your device into power and connect to the Internet with Wi-Fi
-1. Tap `Settings` -> `General` -> `Software Update`
-    - Ensure that the version you are updating to is 10.3.4
-1. Download and install the update
+1. 将设备插入电源并连接到 Wi-Fi 网络
+1. 打开设置
+1. 点击 `通用` -> `软件更新`
+    - 确保你正在更新的版本是 10.3.4
+1. 下载并安装更新

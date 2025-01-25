@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Installing TrollStore (TrollInstallerX)
-description: Guide to installing TrollStore via TrollInstallerX
+title: 安装 TrollStore (TrollInstallerX)
+description: 通过 TrollInstallerX 安装 TrollStore 
 permalink: /installing-trollstore-trollinstallerx
 sidebar: false
 redirect_from:
@@ -13,78 +13,77 @@ extra_contributors:
 
 ::: warning
 
-A8(X) iPads are only supported on firmware versions 14.0 to 15.1.
+搭载了 A8(X) 的 iPad 仅支持 14.0 到 15.1 版本的系统。
 
 :::
 
-TrollInstallerX supports all iOS/iPadOS devices on firmware versions 14.0 to 15.1.1, A9(X) and later devices on firmware versions 15.2 to 16.6.1, and A10(X) devices on versions 17.0 **beta 1** to 17.0 **beta 4**.
+TrollInstallerX 支持所有运行 14.0 到 15.1.1 版本的 iOS/iPadOS 设备，和运行 15.2 到 16.6.1 版本的 A9(X) 及更高版本设备，以及运行 17.0 **beta 1** 到 17.0 **beta 4** 版本的 A10(X) 设备。
 
-## Requirements
+## 需求
 
 <div class="custom-container tip" id="ifJailbreaksAppSigned"><p>
-TrollInstallerX is currently signed at <a href="https://jailbreaks.app/" target="_blank">jailbreaks.app</a> for easy installation without a computer.
+为了在没有电脑的情况下也能方便安装，TrollInstallerX 已经在 <a href="https://jailbreaks.app/" target="_blank">jailbreaks.app</a> 上签名。
 </p></div>
 
-- The latest version of [Sideloadly](https://sideloadly.io/)
-- The latest version of [iTunes](https://www.apple.com/itunes/download/win64) if on Windows.
-- The latest version of [TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX/releases/latest/download/TrollInstallerX.ipa)
-    - If you are using a Yellow iPhone 14 or Yellow iPhone 14 Plus on 16.3 (**20D50**), you will need the [TrollInstallerX-20D50](https://github.com/alfiecg24/TrollInstallerX/releases/latest/download/TrollInstallerX-20D50.ipa) version instead.
+- 最新版本的 [Sideloadly](https://sideloadly.io/)
+- 如果你正在使用 Windows，那么需要最新版本的 [iTunes](https://www.apple.com/itunes/download/win64)
+- 最新版本的 [TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX/releases/latest/download/TrollInstallerX.ipa)
+    - 如果你在用正在运行 16.3 版 iOS 的黄色 iPhone 14 或者 Plus (**20D50**)，那么你需要使用 [TrollInstallerX-20D50](https://github.com/alfiecg24/TrollInstallerX/releases/latest/download/TrollInstallerX-20D50.ipa)，而非常规的 TrollInstallerX。
 
-## Installing the application
+## 安装应用
 
-1. Open Sideloadly
-1. Plug your iOS device into your computer
-    - Make sure your computer is trusted and allowed to view the contents of your device
-1. Drag and drop the TrollInstallerX `.ipa` file into Sideloadly
-1. Enter in your Apple ID
-1. Enter in your password
+1. 打开 Sideloadly
+1. 把你的 iOS 设备连接到电脑上
+    - 确保你的电脑已标记为被信任的设备，并且被允许从电脑上查看手机内容
+1. 把 TrollInstallerX `.ipa` 拖进 Sideloadly
+1. 输入你的 Apple ID
+1. 输入你的密码
 
-The app will now install to your iOS device.
+然后软件就会安装到你的 iOS 设备上了。
 
-## Trusting the application
+## 信任软件
 
-1. Go to `Settings` -> `General` -> `Device Management` -> `<Your Apple ID>`
-    - Depending on your usage, `Device Management` may be labeled `Profiles and Device Management`
-1. Tap `Trust "<Your Apple ID>"`
+1. 打开 `设置` -> `通用` -> `设备管理` -> `<你的 Apple ID>`
+    - 鉴于使用不同，`设备管理` 也有可能叫做 `描述文件与设备管理`。
+1. 点击 `信任 "<你的 Apple ID>"`
 
-The TrollInstallerX application can now be opened from home screen.
-
-::: danger
-
-If you're on iOS 16.0 or later, and did not use jailbreaks.app to install TrollInstallerX, you'll also need to enable Developer Mode.
-
-To do so, go into `Settings` -> `Privacy & Security` and then scroll down until you see `Developer Mode`, tap that option, toggle Developer Mode on, and follow the on-screen instructions
-
-:::
-
-## Running TrollInstallerX
-
-1. Open TrollInstallerX
-1. Tap `Install TrollStore`
-    - If your device is stuck on "Exploiting Kernel", reboot your device
-1. When prompted to select an app to install the persistence helper into, select an app you care about **the least**
-    - If you don't know what app to select, select `Tips`
-    - If your device reboots *before* getting to this step, try again
-
-The persistence helper, and in most cases, TrollStore itself, should now be installed.
+然后 TrollInstallerX 就可以从桌面上打开了。
 
 ::: danger
 
-On iOS 16.5.1 for A15, A16, and M2 devices, as well as iOS 16.6 to 16.6.1 for A12 and later devices, you'll need to install TrollStore through the installed persistence helper after using TrollInstallerX, this is covered in the following additional section below.
+如果你正在运行 iOS 16.0 或者更高版本，并且没有使用上文所提到的 jailbreaks.app 来安装 TrollInstallerX，你需要开启开发者模式。
 
-All other devices **do not** need to follow the next additional section.
+如果要启用开发者模式，打开 `设置` -> `隐私和安全` 然后下滑直到你看见 `开发者模式`，点击进入这个设置项目并打开开发者模式并跟随屏幕上提示的操作即可。
 
 :::
 
-## Additional Steps
+## 运行 TrollInstallerX
 
+1. 打开 TrollInstallerX
+1. 点击 `Install TrollStore`
+    - 如果你的设备卡在了 "Exploiting Kernel" 这一步上， 那就重启设备
+1. 当提示选择一个应用以安装 "persistence helper" （持久化助手）的时候， 尽量选择一个你 **最不经常** 使用的应用
+    - 如果你不知道选哪个就选 `提示`
+    - 如果在这一步*之前*你的设备就重启了的话那么你需要再试一次。耐心。
+
+在这之后 TrollStore （一般来说）和持久化助手都会被安装到你的设备里。
+
+::: danger
+
+运行了 iOS 16.5.1 的 A15、A16 和 M2 设备，以及 A12 及更高版本的 iOS 16.6 到 16.6.1 设备，在完成上述步骤后，你需要通过已安装的持久化助手来安装 TrollStore，在下文的 `额外步骤` 中会提到。
+
+其他的设备**不需要**执行下面的步骤。
+
+:::
+
+## 额外步骤
 ::: warning
 
-If the persistence helper is not installed into the app you selected, shut down your device normally, turn your device back on, open the app you want as your persistence helper, then close the app (**from the app switcher**) and run TrollInstallerX again.
+如果持久化助手没有装进你选择的应用，正常关机，重新启动你的设备，打开你想要作为持久化助手的应用，然后**从应用切换器**中关掉这个应用，并运行 TrollInstallerX 再试一次。
 
 :::
 
-1. Open the app you selected as your persistence helper from your home screen
-1. Press `Install TrollStore`.
+1. 打开你选择作为持久化助手的应用
+1. 点击 `Install TrollStore`.
 
-TrollStore will now be installed to your device.
+现在 TrollStore 就会被安装到你的设备上了。

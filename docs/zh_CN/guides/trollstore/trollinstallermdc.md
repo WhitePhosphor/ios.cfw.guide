@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Installing TrollStore (TrollInstallerMDC)
-description: Guide to installing TrollStore via TrollInstallerMDC
+title: 安装 TrollStore (TrollInstallerMDC)
+description: 通过 TrollInstallerMDC 安装 TrollStore
 permalink: /installing-trollstore-trollinstallermdc
 sidebar: false
 redirect_from:
@@ -10,62 +10,62 @@ extra_contributors:
   - Alriceee
 ---
 
-## Requirements
+## 需求
 
-- A device running iOS/iPadOS 15.0 to 15.7.1 or 16.0 to 16.1.2
-- The Tips app installed to your device
-- The latest version of [Sideloadly](https://sideloadly.io/)
-- The latest version of [iTunes](https://www.apple.com/itunes/download/win64) if on Windows.
-- The latest version of [TrollInstallerMDC](https://dhinakg.github.io/apps.html)
+- 一台正在运行 iOS/iPadOS 15.0 到 15.7.1 或 16.0 到 16.1.2 的设备
+- 你的设备上已经安装了 “提示” 应用
+- 最新版本的 [Sideloadly](https://sideloadly.io/)
+- 如果你正在使用 Windows，那么需要最新版本的 [iTunes](https://www.apple.com/itunes/download/win64) 
+- 最新版本的 [TrollInstallerMDC](https://dhinakg.github.io/apps.html)
 
-## Installing the application
+## 安装应用
 
-1. Open Sideloadly
-1. Plug your iOS device into your computer
-    - Make sure your computer is trusted and allowed to view the contents of your device
-1. Drag and drop the TrollInstallerMDC `.ipa` file into Sideloadly
-1. Enter in your Apple ID
-1. Enter in your password
+1. 打开 Sideloadly
+1. 把你的 iOS 设备连接到电脑上
+    - 确保你的电脑已标记为被信任的设备，并且被允许从电脑上查看手机内容
+1. 把 TrollInstallerMDC `.ipa` 拖进 Sideloadly
+1. 输入你的 Apple ID
+1. 输入你的密码
 
-The app will now install to your iOS device.
+然后软件就会安装到你的 iOS 设备上了。
 
-## Trusting the application
+## 信任软件
 
-1. Go to `Settings` -> `General` -> `Device Management` -> `<Your Apple ID>`
-    - Depending on your usage, `Device Management` may be labeled `Profiles and Device Management`
-1. Tap `Trust "<Your Apple ID>"`
+1. 打开 `设置` -> `通用` -> `设备管理` -> `<你的 Apple ID>`
+    - 鉴于使用不同，`设备管理` 也有可能叫做 `描述文件与设备管理`。
+1. 点击 `信任 "<你的 Apple ID>"`
 
-The TrollInstallerMDC application can now be opened from home screen.
+然后 TrollInstallerMDC 就可以从桌面上打开了。
 
 ::: danger
 
-If you're on iOS 16.0 to 16.1.2, you'll also need to enable Developer Mode.
+如果你的设备正在运行 iOS 16.0 到 16.1.2，你还需要启用开发者模式。
 
-To do so, go into `Settings` -> `Privacy & Security` and then scroll down until you see `Developer Mode`, tap that option, toggle Developer Mode on, and follow the on-screen instructions
+如果要启用开发者模式，打开 `设置` -> `隐私和安全` 然后下滑直到你看见 `开发者模式`，点击进入这个设置项目并打开开发者模式并跟随屏幕上提示的操作即可。
 
 :::
 
-## Injecting TrollStore Helper
+## 注入 TrollStore Helper
 
 ::: warning
 
-If you've already opened Tips, reboot your device before following these steps
+如果你已经打开了 “提示”，那么在执行这些步骤之前你还需要重启设备。
 
 :::
 
-1. Open TrollInstallerMDC
-1. Once it says "Successfully replaced Tips binary", close the `TrollInstallerMDC` app
-    - If it gives an error, close TrollInstallerMDC and re-open it 
+1. 打开 TrollInstallerMDC
+1. 当提示 "Successfully replaced Tips binary"时， 关掉 `TrollInstallerMDC` 即可。
+    - 如果提示错误那么就重新打开 TrollInstallerMDC
 
-## Installing TrollStore
+## 安装 TrollStore
 
-1. Open the `Tips` app
-1. Tap `Install TrollStore`
+1. 打开 `提示` 
+1. 点击 `Install TrollStore`
 
-Your device should respring, and TrollStore should now be installed.
+你的设备应该会刷新，然后 TrollStorre 就安装在你的设备上了。
 
-## Installing Persistence Helper
+## 安装持久化助手
 
-1. Open the `TrollStore` app on your home screen
-1. Press `Settings`, then press `Install Persistence Helper`
-1. Select `Tips` from the list of apps
+1. 从桌面上打开 `TrollStore`
+1. 点击 `Settings`，然后点击 `Install Persistence Helper`
+1. 从应用列表里选择 `提示`
