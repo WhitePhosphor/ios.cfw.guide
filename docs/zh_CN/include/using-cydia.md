@@ -1,65 +1,65 @@
-## Required Reading
+## 读前须知
 
 ::: tip
 
-This page is optional, but helpful if you are unfamiliar with jailbreaking.
+这个界面的阅读是可选的，但是如果你对越狱不是很熟悉，那么它值得一看。
 
 :::
 
-Cydia is a package manager that has been used since the start of jailbreaking in 2008. It can be used to install tweaks and themes.
+Cydia 是一个自 2008 年越狱兴起以来就被使用的包管理器，它可以用来安装调整包和系统主题。
 
-![A picture of an iPhone running Cydia](/assets/images/cydia_picture.jpg)
+![正在运行 Cydia 的 iPhone 图片](/assets/images/cydia_picture.jpg)
 
-<p><router-link to="/faq/#what-are-tweaks">Tweaks</router-link> are small modifications to change the look and/or feel of your device. You can find tweaks on repositories, colloquially referred to as "repos".</p>
+<p><router-link to="/faq/#what-are-tweaks">调整包（Tweaks）</router-link> 是对于系统的一些小的修改，可以改变系统的外观和使用体验。你可以在一些仓库中找到调整包，通常这些仓库被称为 "repos"。</p>
 
-<p><router-link to="/faq/#what-s-a-repo">Repositories</router-link> are essentially databases that contain lots of tweaks for you to install. When you add repos to Cydia, you will be able to install the tweaks on it, and look for them using the search function.</p>
+<p><router-link to="/faq/#what-s-a-repo">仓库（Repo）</router-link> 本质上是包含大量调整包的数据库。当你将仓库添加到 Cydia 时，你就可以安装其中的调整包，并使用搜索功能查找它们。</p>
 
-This guide will show you how you can install and uninstall tweaks, and add different repos.
+本指南将向你展示如何安装和卸载调整包，以及如何添加不同的仓库。
 
-## Adding Repos
+## 添加仓库
 
-1. Open the Cydia application
-1. Tap `Sources` on the bar at the bottom
-1. Tap the `Edit` button in the top right-hand corner
-1. Tap the `+` icon in the top right-hand corner
-1. Enter in a repo URL (e.g. [`https://sparkdev.me/`](https://sparkdev.me/))
-1. Tap `Add Source`
+1. 打开 Cydia 应用程序
+1. 点击底部栏上的 `Sources`
+1. 点击右上角的 `Edit` 按钮
+1. 点击右上角的 `+` 图标
+1. 输入仓库 URL（例如 [`https://sparkdev.me/`](https://sparkdev.me/)）
+1. 点击 `Add Source`
 
-You can now enter the repo from this page to see all the tweaks available on it.
+现在你可以从此页面进入仓库，查看其中所有可用的调整包。
 
-## Removing Repos
+## 删除仓库
 
-1. Open the Cydia application
-1. Tap `Sources` on the bar at the bottom
-1. Tap the `Edit` button in the top left-hand corner
-1. Tap the red icon next to the repo you want to delete
-1. Confirm the deletion
+1. 打开 Cydia 应用程序
+1. 点击底部栏上的 `Sources`
+1. 点击左上角的 `Edit` 按钮
+1. 点击你想删除的仓库旁边的红色图标
+1. 确认删除
 
-The repo should now be removed from Cydia.
+现在这个仓库应该已从 Cydia 中删除。
 
-## Installing Tweaks
+## 安装调整包
 
-1. Open the Cydia application
-1. Search for a tweak you'd like to install
-1. Tap the `Install` button at the top right-hand corner of your screen
-1. Confirm the installation
-    - It may take some time for the tweak to install
-1. After it's finished, tap "<router-link to="/faq/#what-is-respringing">Restart SpringBoard</router-link>"
-    - The device should appear to reboot after this
-    - Sometimes, the button might not say to Restart SpringBoard, but you can tap the button anyway
+1. 打开 Cydia 应用程序
+1. 搜索你想安装的调整包
+1. 点击屏幕右上角的 `Install` 按钮
+1. 确认安装
+    - 安装调整包可能需要一些时间，这取决于你的网速和调整包的大小
+1. 完成后，点击 "<router-link to="/faq/#what-is-respringing">重启 SpringBoard</router-link>"
+    - 设备在此之后应该会刷新（Respring）
+    - 有时，"重启 SpringBoard"可能不会显示，但你仍然可以点击按钮
 
-The tweak should now be installed to your device and will be active whenever your device is jailbroken.
+该调整包现在应该已安装到你的设备上，并将在设备越狱时激活。
 
-## Uninstalling Tweaks
+## 卸载调整包
 
-1. Open the Cydia application
-1. Tap on a tweak you'd like to uninstall
-1. Tap the `Modify` button at the top of the page
-1. Tap `Remove`
-1. Confirm the uninstallation
-    - It may take some time for the tweak to install
-1. After it's finished, tap "<router-link to="/faq/#what-is-respringing">Restart SpringBoard</router-link>"
-    - The device should appear to reboot after this
-    - Sometimes, the button might not say to Restart SpringBoard, but you can tap the button anyway
+1. 打开 Cydia 应用程序
+1. 点击你想卸载的调整包
+1. 点击页面顶部的 `Modify` 按钮
+1. 点击 `Remove`
+1. 确认卸载
+    - 卸载调整包可能需要一些时间
+2. 完成后，点击 "<router-link to="/faq/#what-is-respringing">重启 SpringBoard</router-link>"
+    - 设备在此之后应该会刷新
+    - 有时，"重启 SpringBoard"可能不会显示，但你仍然可以点击按钮
 
-After restarting SpringBoard, the tweak should now be uninstalled.
+重启 SpringBoard 后，该调整包现在应该已从你的设备上卸载。
