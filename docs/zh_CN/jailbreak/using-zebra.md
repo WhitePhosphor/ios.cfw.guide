@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: "Using Zebra"
-description: Guide to using Zebra
+title: "使用 Zebra"
+description: 如何使用 Zebra
 permalink: /zh_CN/using-zebra
 redirect_from:
   - /zh-CN/zebra

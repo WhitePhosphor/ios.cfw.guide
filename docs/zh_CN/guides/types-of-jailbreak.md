@@ -27,7 +27,7 @@ extra_contributors:
 
 完美越狱可以被认为是所有越狱中的顶峰。它们只需要通过网站、应用程序或计算机运行一次漏洞利用就可以做到永久越狱。
 
-![一张 p0sixspwn 越狱的截图](/assets/images/p0sixspwn.png)
+![一张 p0sixspwn 越狱的截图](/assets/images/p0sixpwn.png)
 
 如果你的设备进行了完美越狱，那么你不需要任何进一步的操作来维持这种越狱状态。即使在重启设备后，你的设备也仍旧也是越狱的。
 

@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Using TotallyNotSpyware
-description: Guide to using TotallyNotSpyware
+title: 使用 TotallyNotSpyware
+description: 如何使用 TotallyNotSpyware
 permalink: /zh_CN/using-tns
 redirect_from:
   - /zh-CN/using-totallynotspyware
@@ -18,48 +18,48 @@ redirect_from:
   - /zh-CN/installing-meridian
   - /zh-CN/meridian
   - /zh-CN/md
-discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
+discordNoticeText: 如果需要英语的帮助可以在 LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/) 上查看。
 pkgman: cydia
 extra_contributors:
   - TheHacker894
 ---
 
-TotallyNotSpyware is capable of jailbreaking every 64-bit iOS device on firmware version 10.0 up to 10.3.3.
+TotallyNotSpyware 能够越狱所有固件版本在 10.0 到 10.3.3 的 64 位 iOS 设备。
 
-Note that the TotallyNotSpyware jailbreak is not “persistent” (meaning it does not remain installed after a reboot). You will need to re-run the exploit after every reboot. You will be instructed on how to do this.
+请注意，TotallyNotSpyware 越狱是半完全越狱（意味着它在重启后不会保持安装）。每次重启后，你需要重新运行漏洞利用程序。我们会指导你如何操作。
 
 ::: warning
 
-Should you run into issues with this method for any reason, you can attempt to use <router-link to="/installing-doubleh3lix-ipa">doubleh3lix</router-link> if you are on an A7-A9(X) device or <router-link to="/installing-meridian-ipa">Meridian</router-link> if you are on an A10(X) device.
+如果你在使用此方法时遇到任何问题，可以尝试使用 <router-link to="/installing-doubleh3lix-ipa">doubleh3lix</router-link>（如果你使用的是 A7-A9(X) 设备）或 <router-link to="/installing-meridian-ipa">Meridian</router-link>（如果你使用的是 A10(X) 设备）。
 
 :::
 
-## Running TotallyNotSpyware
+## 启动 TotallyNotSpyware
 
-1. Open Safari on your iOS device
-1. Go to the [https://totally-not.spyware.lol/](https://totally-not.spyware.lol/) website
-1. Slide, left to right, on the `Slide for Spyware` slider
-1. Once you see the `Spyware announcement` prompt, press `noot noot`
-   - If the device reboots without prompting this, try again.
-1. You'll recieve a prompt asking you to choose between jailbreaking with Meridian or jailbreaking with doubleH3lix, what option you should select depends on your device
-   - If your device is an A7-A9(X) device, you *should* select doubleh3lix.
-   - If your device is an A10(X) device, the only option which works is to select Meridian.
-1. After selecting what you wish to jailbreak with, press `OK`
+1. 在你的 iOS 设备上打开 Safari
+1. 访问 [https://totally-not.spyware.lol/](https://totally-not.spyware.lol/) 网站
+1. 将 `Slide for Spyware` 上的滑块从左向右滑动到底
+1. 当你看到 `Spyware announcement` 提示时，按 `noot noot`
+   - 如果设备在没有提示的情况下重启，请重试
+1. 你会得到一个提示，要求你选择使用 Meridian 越狱还是使用 doubleH3lix 越狱，选择哪个选项取决于你的设备
+   - 如果你的设备搭载了 A7-A9(X) 芯片，你*应该*选择 doubleh3lix。
+   - 如果你的设备搭载了 A10(X) 芯片，唯一有效的选项是 Meridian。
+1. 选择你希望使用的越狱方式后，按 `OK`
 
-TotallyNotSpyware will now install the temporary jailbreak on your device. 
+TotallyNotSpyware 现在将在你的设备上安装半完全越狱。
 
-To rejailbreak in the future, doing steps 1 through 4 should rejailbreak your device.
+如果要重新越狱，执行步骤 1 到 4 就可以进行重新越狱了。
 
 ::: tip
 
-Tap `Share` -> `Add to home screen` for easier access to TotallyNotSpyware.
+点击 `分享` -> `添加到主屏幕` 可以更轻松地启动 TotallyNotSpyware。
 
 :::
 
-You should now be jailbroken with Cydia installed on your home screen. You can use Cydia to install <router-link to="/faq/#what-are-tweaks">tweaks</router-link>, themes and more.
+现在你应该已经成功越狱并已经安装了 Cydia。你可以使用 Cydia 安装 <router-link to="/faq/#what-are-tweaks">调整包</router-link>、主题等。
 
 ::: tip
 
-If you wish to use a more modern package manager, continue to <router-link to="/installing-zebra">Installing Zebra</router-link>
+如果你希望使用更现代的包管理器，请阅读如何 <router-link to="/installing-zebra">安装 Zebra</router-link>。
 
 :::
