@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: "Using Sileo"
-description: Guide to using Sileo
+title: "使用 Sileo"
+description: Sileo 使用指南
 permalink: /zh_CN/using-sileo
 redirect_from:
   - /zh-CN/sileo

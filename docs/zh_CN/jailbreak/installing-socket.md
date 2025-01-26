@@ -5,7 +5,7 @@ description: Guide to installing Socket
 permalink: /zh_CN/installing-socket
 redirect_from:
   - /zh-CN/socket
-discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
+discordNoticeText: 如果需要英语帮助可以在 LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/) 上提问。
 pkgman: zebra
 extra_contributors:
   - hopolapopola

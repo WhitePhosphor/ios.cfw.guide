@@ -1,75 +1,75 @@
-## Required Reading
+## 必读内容
 
 ::: tip
 
-This page is optional, but helpful if you are unfamiliar with jailbreaking.
+每个在这里链接的界面都是选读的。但是如果你不熟悉越狱的话，这些界面对你来说会很有用。
 
 :::
 
-nitoTV is a package manager that has been used since the start of jailbreaking Apple TV devices. It can be used to install tweaks, utilites, tools and other essentials.
+nitoTV 是一个自 Apple TV 设备能够越狱开始就已经在使用的包管理器。它可以用来安装插件、实用工具、工具和其他必需品。
 
-![A picture of an Apple TV running nitoTV](/assets/images/nitotv_picture.png)
+![Apple TV 运行 nitoTV 的图片](/assets/images/nitotv_picture.png)
 
-<p><router-link to="/faq/#what-are-tweaks">Tweaks</router-link> are small modifications to change the look and/or feel of your device. You can find tweaks on repositories, colloquially referred to as "repos".</p>
+<p><router-link to="/faq/#what-are-tweaks">插件（Tweaks）</router-link> 是对于系统的一些小的修改，可以改变系统的外观和使用体验。你可以在一些仓库中找到插件，通常这些仓库被称为 "repos"。</p>
 
-<p><router-link to="/faq/#what-s-a-repo">Repositories</router-link> are essentially databases that contain lots of tweaks for you to install. When you add repos to nitoTV, you will be able to install the tweaks on it, and look for them using the search function.</p>
-
-:::
-
-Keeping in mind, most iOS repositories will not work with tvOS!
+<p><router-link to="/faq/#what-s-a-repo">仓库（Repo）</router-link> 本质上是包含大量插件的数据库。当你将仓库添加到 Cydia 时，你就可以安装其中的插件，并使用搜索功能查找它们。</p>
 
 :::
 
-This guide will show you how you can install and uninstall tweaks, and add different repos.
+请注意，大多数 iOS 仓库不适用于 tvOS！
 
-::: 
+:::
 
-This guide is for Apple TV 4 (or higher) devices
+本指南将向你展示如何安装和卸载插件，以及添加不同的仓库。
 
-::: 
+:::
 
-## Adding Repos
+本指南适用于 Apple TV 4（或更高版本）设备
 
-1. Open the nitoTV application
-1. Navigate to `Sources` on the bar at the top
-1. Click the `Add` button below
-1. Enter in a repo URL (e.g. [`https://sparkdev.me/`](https://sparkdev.me/)) This can also be done via iPhone/iPad keyboard.
-1. Tap `Okay`
+:::
 
-You can now enter the repo from this page to see all the tweaks available on it.
+## 添加仓库
 
-## Removing Repos
+1. 打开 nitoTV 应用程序
+1. 选择并进入顶部栏上的 `Sources`
+1. 点击下面的 `Add` 按钮
+1. 输入仓库 URL（例如 [`https://sparkdev.me/`](https://sparkdev.me/)）。这也可以通过 iPhone/iPad 键盘完成。
+1. 点击 `Okay`
 
-1. Open the nitoTV application
-1. Navigate to `Sources` on the bar at the top
-1. Using the trackpad, click and hold on the repo for a second on the select repo, then release.
-1. Click `Remove`
+现在你可以从此页面进入仓库，查看所有可用的插件。
 
-The repo should now be removed from nitoTV.
+## 删除仓库
 
-## Installing Tweaks
+1. 打开 nitoTV 应用程序
+1. 选择并进入到顶部栏上的 `Sources`
+1. 使用触控板，点击并按住仓库一秒钟，然后释放。
+1. 点击 `Remove`
 
-1. Open the nitoTV application
-1. Search for a tweak you'd like to install
-1. Tap the `Get` button below the tweak name
-1. Click `Install` at the prompt to confirm the installation
-    - It may take some time for the tweak to install
-1. After it's finished, tap "<router-link to="/faq/#what-is-respringing">Respring</router-link>"
-    - The device should appear to reboot after this
-    - Sometimes, the button might not say to Respring, but you can tap the button anyway
+该仓库现在应该从 nitoTV 中删除。
 
-The tweak should now be installed to your device and will be active whenever your device is jailbroken.
+## 安装插件
 
-## Uninstalling Tweaks
+1. 打开 nitoTV
+1. 搜索你想安装的插件
+1. 点击插件名称下方的 `Get` 按钮
+1. 在提示时点击 `Install` 以确认安装
+    - 安装插件可能需要一些时间
+1. 完成后，点击 "<router-link to="/faq/#what-is-respringing">Respring</router-link>"
+    - 设备应在此之后刷新
+    - 有时，按钮可能不会显示 Respring，但你仍然可以点击按钮
 
-1. Open the nitoTV application
-1. Go to the `Installed` button at the top bar
-1. Click on the tweak in the list
-1. Click `Modify` below the tweak name
-1. Click `Remove` at the prompt to confirm the uninstallation
-    - It may take some time for the tweak to install
-1. After it's finished, tap "<router-link to="/faq/#what-is-respringing">Respring</router-link>"
-    - The device should appear to reboot after this
-    - Sometimes, the button might not say to Respring, but you can tap the button anyway
+插件现在应该安装到你的设备上，并且在设备越狱时会自动激活。
 
-After respringing, the tweak should now be uninstalled.
+## 卸载插件
+
+1. 打开 nitoTV 应用程序
+1. 转到顶部栏上的 `Installed` 按钮
+1. 点击列表中的插件
+1. 点击插件名称下方的 `Modify`
+1. 在提示时点击 `Remove` 以确认卸载
+    - 卸载插件可能需要一些时间
+1. 完成后，点击 "<router-link to="/faq/#what-is-respringing">Respring</router-link>"
+    - 设备应在此之后刷新
+    - 有时，按钮可能不会显示 Respring，但你仍然可以点击按钮
+
+刷新后，插件现在应该已从设备中卸载。

@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Using palen1x
-excerpt: Guide to installing palera1n via palen1x
+title: 使用 palen1x
+excerpt: 通过 palen1x 安装 palera1n
 permalink: /zh_CN/using-palen1x
 pkgman: sileo
 redirect_from:
@@ -18,78 +18,78 @@ extra_contributors:
 
 ::: danger
 
-If you are trying to use a Virtual Machine software of some sort from Windows (e.g. Virtualbox, VMWare, Windows Subsystem for Linux, etc) you will not succeed with following this guide, and will need to obtain a bootable medium and follow the below steps using that bootable medium.
+如果你尝试在 Windows 上使用虚拟机（比如 Virtualbox、VMWare、Windows Subsystem for Linux 等），按照本指南的步骤你将无法成功越狱。你需要一个可启动（bootable）的移动介质并使用该介质按照以下步骤进行操作。
 
 :::
 
 ::: warning
 
-If you are using a computer with an AMD Ryzen CPU, you will likely run into issues. If you do run into issues, you should use a Mac or a computer with an Intel CPU to follow this guide.
+如果你使用的是搭载了 AMD Ryzen CPU 的电脑，你可能会遇到问题。我们建议使用 Mac 或搭载了 Intel CPU 的电脑来按照本指南操作。
 
 :::
 
-palen1x is a live bootable Linux environment that allows you to quickly run palera1n on a compatible device. palera1n is capable of jailbreaking iOS devices with A8(X) to A11 SoC's on iOS 15.0 or later
+palen1x 是一个可启动的 Linux 环境，可以让你快速在兼容 palera1n 的设备上运行 palera1n。palera1n 能够越狱 iOS 15.0 或更高版本的，搭载了 A8(X) 到 A11 SoC 芯片的 iOS 设备。
 
-On A11 devices, you **must disable your passcode** and will not be able to use your passcode, or other SEP functionality, until you boot into a stock iOS state. SEP functionality includes things such as a passcode, Face ID/Touch ID, and Apple Pay. 
+但是在 A11 设备上，你**必须禁用密码**，并且在进入原生 iOS 之前你无法使用密码或其他 SEP 功能。SEP 功能包括密码、Face ID/Touch ID 和 Apple Pay 等。
 
-Additionally, if your device is an A11 device on iOS 16 and you've set a passcode before, you will need to **erase all content and settings** in order to be able to jailbreak.
+此外，如果你的设备是 iOS 16 的 A11 设备，并且之前设置了密码，你需要**抹掉所有内容和设置**才能进行越狱。
 
-## Requirements
+## 要求
 
-- A 128MB or greater USB Drive
-    - If you don't have a USB Drive, but do have another form of supported removable bootable hardware (e.g. A CD or DVD), you can use that instead of a USB Drive
-- The latest version of [palen1x](https://github.com/palera1n/palen1x/releases)
+- 一个 128MB 或更大的 USB 驱动器（也即上文提到的可移动介质）
+    - 如果没有 USB 驱动器，但有其他形式的支持的可启动硬件（例如 CD 或 DVD），你可以使用它们代替 USB 驱动器
+- 最新版本的 [palen1x](https://github.com/palera1n/palen1x/releases)
 - [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
-## Installing Ventoy
+## 安装 Ventoy
 
-1. Download and extract the contents of the `Ventoy.zip` file
-1. Insert your USB drive if you have not already done so, and open the `Ventoy2Disk.exe` file
-1. Select the USB drive you would like to boot palen1x from
-    - This USB drive will be completely erased
-    - Ensure you back up all important data beforehand
-1. Click `Install` and confirm that you are ok erasing the USB drive
-    - Do not remove your USB Drive until the process has completed
-1. Once it has installed, copy the palen1x iso file that you downloaded onto the USB drive
+1. 下载并解压 `Ventoy.zip`
+1. 插入你的 USB 驱动器并打开 `Ventoy2Disk.exe` 
+1. 选择你用来启动 palen1x 的 USB 驱动器
+    - **该 USB 驱动器将被格式化**
+    - 确保事先备份所有重要数据
+1. 点击 `Install` 并确认你同意格式化 USB 驱动器
+    - 在过程完成之前不要弹出 USB 驱动器
+1. 安装完成后，将下载的 palen1x iso 文件复制到 USB 驱动器上
 
-## Booting palen1x
+## 启动 palen1x
 
-1. Reboot, and then go into your BIOS settings and disable Secure Boot, then enter the boot picker and select your USB Drive to boot from
-    - This is different for every computer
-    - Search your PC or motherboard brand to find out how to get to your BIOS settings if you are unsure
-1. Press enter once you see the Ventoy screen to boot into palen1x
+1. 重启你的电脑，然后进入 BIOS 设置并禁用安全启动（Secure Boot），进入选择启动界面并选择你安装了 palen1x 的 USB 驱动器进行启动
+    - 每台电脑进入 BIOS 的操作不同
+    - 如果不确定如何进入 BIOS 设置，请搜索你的 PC 或主板品牌。
+1. 在你看到 Ventoy 地界面后，按回车键启动 palen1x
 
-## Running palera1n
+## 运行 palera1n
 
 ::: warning
 
-If you are using a USB-C to Lightning cable to do this process, you may run into issues entering into DFU mode
+如果你使用 USB-C 转 Lightning 线进行下述过程，你可能会遇到你的 iOS 设备进入 DFU 模式的问题。
 
-If you do have issues, get a USB-A to Lightning cable and, if necessary, also get a USB-C to USB-A adapter.
-
-:::
-
-1. Once you have loaded palen1x, select `Shell`
-1. Type `palera1n -l`
-1. Follow the on screen instructions to enter <router-link to="/faq/#what-is-dfu-mode">DFU mode</router-link>.
-
-::: tip
-
-A9(X) and earlier devices have an issue where they will get stuck midway through this process in pongoOS. To work around this issue, you'll need to do the following:
-
-1. In the terminal window, press `Control` + `C` on your keyboard
-1. Rerun the command that you just ran
-
-You'll need to do this every time you rejailbreak your device as well.
+如果遇到问题，请使用 USB-A 转 Lightning 线，如果需要，还可以使用 USB-C 转 USB-A 适配器。
 
 :::
 
-Once the device boots up, open the palera1n loader app and tap `Sileo`. After a bit of time, you'll be prompted to set a passcode for using command line stuff, and then afterwards,`Sileo` should be on your home screen.
+1. 加载 palen1x 后，选择 `Shell`
+1. 输入 `palera1n -l`
+1. 按照屏幕上的说明进入 <router-link to="/faq/#what-is-dfu-mode">DFU 模式</router-link>。
 
 ::: tip
 
-To rejailbreak your device, simply rerun the command you just ran and then repeat any other applicable steps.
+搭载了 A9(X) 及更早型号芯片的设备在此过程中会卡在 pongoOS 中。要解决此问题，你需要执行以下操作：
 
-Alternatively, if you're on versions 15.0 to 16.6.1, you can follow <router-link to="/installing-dopamine">Installing Dopamine</router-link> to install a permanently signed semi-untethered jailbreak, which will allow you to rejailbreak your device without a computer.
+1. 在终端窗口中，按键盘上的 `Control` + `C`
+1. 重新运行刚才运行的命令
+
+每次重新越狱设备时都需要这样做。
+
+:::
+
+设备启动后，打开 palera1n 并点击 `Sileo`。稍等片刻之后，会提示你设置用于命令行操作的密码，然后 `Sileo` 应该会出现在主屏幕上。
+
+::: tip
+
+要重新越狱设备，只需重新运行刚才运行的命令，然后重复你第一次越狱时所做过的步骤。
+
+如果你使用的是 15.0 到 16.6.1 版本，你也可以 <router-link to="/installing-dopamine">安装 Dopamine</router-link> ，来使用一个永久签名的半完全越狱，这样可以在无需电脑的情况下重新越狱设备。
 
 :::

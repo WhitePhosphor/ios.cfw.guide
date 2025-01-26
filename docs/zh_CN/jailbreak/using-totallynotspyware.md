@@ -18,7 +18,7 @@ redirect_from:
   - /zh-CN/installing-meridian
   - /zh-CN/meridian
   - /zh-CN/md
-discordNoticeText: 如果需要英语的帮助可以在 LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/) 上查看。
+discordNoticeText: 如果需要英语帮助可以在 LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/) 上提问。
 pkgman: cydia
 extra_contributors:
   - TheHacker894
@@ -26,11 +26,11 @@ extra_contributors:
 
 TotallyNotSpyware 能够越狱所有固件版本在 10.0 到 10.3.3 的 64 位 iOS 设备。
 
-请注意，TotallyNotSpyware 越狱是半完全越狱（意味着它在重启后不会保持安装）。每次重启后，你需要重新运行漏洞利用程序。我们会指导你如何操作。
+注意，TotallyNotSpyware 越狱是半完全越狱（意味着它在重启后不会保持安装）。每次重启后，你需要重新运行越狱程序。这篇指南会告诉你你如何操作。
 
 ::: warning
 
-如果你在使用此方法时遇到任何问题，可以尝试使用 <router-link to="/installing-doubleh3lix-ipa">doubleh3lix</router-link>（如果你使用的是 A7-A9(X) 设备）或 <router-link to="/installing-meridian-ipa">Meridian</router-link>（如果你使用的是 A10(X) 设备）。
+如果你在使用此方法时遇到问题，可以尝试使用 <router-link to="/installing-doubleh3lix-ipa">doubleh3lix</router-link>（如果你使用的是搭载了 A7-A9(X) 芯片的设备）或 <router-link to="/installing-meridian-ipa">Meridian</router-link>（如果你使用的是搭载了 A10(X) 芯片的设备）。
 
 :::
 
@@ -56,7 +56,7 @@ TotallyNotSpyware 现在将在你的设备上安装半完全越狱。
 
 :::
 
-现在你应该已经成功越狱并已经安装了 Cydia。你可以使用 Cydia 安装 <router-link to="/faq/#what-are-tweaks">调整包</router-link>、主题等。
+现在你应该已经成功越狱并已经安装了 Cydia。你可以使用 Cydia 安装 <router-link to="/faq/#what-are-tweaks">插件</router-link>、主题等。
 
 ::: tip
 

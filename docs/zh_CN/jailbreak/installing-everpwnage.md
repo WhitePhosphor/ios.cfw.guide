@@ -3,7 +3,7 @@ lang: zh_CN
 title: Installing EverPwnage
 description: Guide to installing everpwnage
 permalink: /zh_CN/installing-everpwnage
-discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
+discordNoticeText: 如果需要英语帮助可以在 LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/) 上提问。
 pkgman: cydia
 extra_contributors:
   - TheHacker894

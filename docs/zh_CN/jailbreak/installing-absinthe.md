@@ -5,7 +5,7 @@ description: Guide to installing Absinthe
 permalink: /zh_CN/installing-absinthe
 redirect_from:
     - /zh-CN/absinthe
-discordNoticeText: For support in English, ask for help on the LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/).
+discordNoticeText: 如果需要英语帮助可以在 LegacyJailbreak [Discord Server](http://discord.legacyjailbreak.com/) 上提问。
 pkgman: cydia
 ---
 

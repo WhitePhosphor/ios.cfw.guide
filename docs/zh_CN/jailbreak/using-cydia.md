@@ -11,11 +11,11 @@ extra_contributors:
 
 ::: warning
 
-Cydia is incredibly unmaintained and does not support several modern functions, as a result, we generally recommend using a more modern package manager if your device supports it. 
+Cydia 已经停止维护，许多现代功能并未得到支持。因此，我们通常建议使用更现代的软件包管理器，如果您的设备支持的话。
 
-If you are on iOS 12 or newer, consider using <router-link to="/installing-sileo">Sileo</router-link> instead.
+如果您使用的是 iOS 12 或更新版本，请考虑使用 <router-link to="/installing-sileo">Sileo</router-link>。
 
-If you are on iOS 9 or newer, consider using <router-link to="/installing-zebra">Zebra</router-link> instead.
+如果您使用的是 iOS 9 或更新版本，请考虑使用 <router-link to="/installing-zebra">Zebra</router-link>。
 
 :::
 
